@@ -27,6 +27,11 @@ main {
   flex-direction: column;
 }
 
+.logo img {
+  width: 50px;
+  height: 50px;
+}
+
 .header h3 {
   font-size: 2em;
   color: #ffffff;
@@ -98,18 +103,25 @@ main {
 }
 
 .search input {
-  width: 70%;
-  height: 30px;
+  width: 80%;
+  height: 50px;
   padding-left: 20px;
   border: none;
   background: #dfdddd;
   border-radius: 50px;
   outline: none;
-  box-shadow: 1px 1px 4px rgb(59, 62, 65);
+  font-size: 20px;
+  box-shadow: 0.2px 0.2px 3px rgb(134, 136, 138);
 }
 input:hover {
   border: 2px solid #302d3a;
   background: #f5f4f4;
+}
+
+@media (min-width: 768px) {
+  .search input {
+    width: 60%;
+  }
 }
 .container {
   grid-area: c;
