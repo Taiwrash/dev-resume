@@ -1,0 +1,23 @@
+{
+  "name": "dev-resume",
+  "version": "1.0.0",
+  "description": "This is an open source project aim at helping young developer contribute and the same put up their skills and bio to the community.",
+  "main": "server",
+  "scripts": {
+    "start": "node server"
+  },
+  "keywords": [
+    "dev",
+    "resume",
+    "cv",
+    "open-source",
+    "hacktoberfest",
+    "2020"
+  ],
+  "author": "Mudasiru Rasheed",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
