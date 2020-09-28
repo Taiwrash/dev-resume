@@ -24,6 +24,19 @@
       "facebook": "Muadasirurasheed",
       "linkedin": "rasheedtaiwo",
       "github": "rasheedtaiwo"
+    },
+
+    {
+      "id": 2,
+      "imageName": "airondev.jpg",
+      "name": "Aaron, Aniebiet B.",
+      "role": "Backend Developer",
+      "about": "I'm tired of talking about myself, but if really must know; I'm a Physicist, Elon Musk is my uncle, I strongly believe in the #Mars project and arrangements have been made for me to join #Space-X after graduation.",
+      "funfact": "The more we talk, the less we become",
+      "twitter": "airon_dev",
+      "facebook": "Aaron-Aniebiet",
+      "linkedin": "aaron-aniebiet",
+      "github": "airondev"
     }
   ]
 }
