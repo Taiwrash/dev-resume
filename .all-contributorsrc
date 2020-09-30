@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "AironDev",
+      "name": "Airon Dev",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/29748407?v=4",
+      "profile": "https://github.com/AironDev",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "dev-resume",
+  "projectOwner": "Taiwrash",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
