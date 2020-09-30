@@ -12,7 +12,6 @@
       "linkedin": "rasheedtaiwo",
       "github": "Taiwrash"
     },
-
     {
       "id": 1,
       "imageName": "",
@@ -25,7 +24,6 @@
       "linkedin": "rasheedtaiwo",
       "github": "rasheedtaiwo"
     },
-
     {
       "id": 2,
       "imageName": "airondev.jpg",
@@ -38,7 +36,6 @@
       "linkedin": "aaron-aniebiet",
       "github": "airondev"
     },
-
     {
       "id": 3,
       "imageName": "brandonbawe.jpg",
@@ -50,6 +47,18 @@
       "facebook": "Brandon Damue",
       "linkedin": "damue-brandon-bawe",
       "github": "brandonbawe"
+    },
+    {
+      "id": 4,
+      "imageName": "perezarturo.png",
+      "name": "Arturo Perez",
+      "role": "Web developer",
+      "about": "Just a boy trying to be a developer",
+      "funfact": "The more we talk, the less we become",
+      "twitter": "",
+      "facebook": "Arturo Perez",
+      "linkedin": "",
+      "github": "PerezArturo"
     }
   ]
 }
