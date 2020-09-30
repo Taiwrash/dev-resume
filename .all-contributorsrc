@@ -15,6 +15,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "Taiwrash",
+      "name": "Mudasiru Rasheed",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/49725691?v=4",
+      "profile": "https://github.com/Taiwrash",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
