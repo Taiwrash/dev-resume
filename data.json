@@ -37,6 +37,19 @@
       "facebook": "Aaron-Aniebiet",
       "linkedin": "aaron-aniebiet",
       "github": "airondev"
+    },
+
+    {
+      "id": 3,
+      "imageName": "brandonbawe.jpg",
+      "name": "Damue Brandon Brandon",
+      "role": "Fullstack web developer",
+      "about": "I'm web dev student from Cameroon who recently fell in love with coding and becoming a better version of myself",
+      "funfact": "The more we talk, the less we become",
+      "twitter": "flaacko_flaacko",
+      "facebook": "Brandon Damue",
+      "linkedin": "damue-brandon-bawe",
+      "github": "brandonbawe"
     }
   ]
 }
