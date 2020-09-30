@@ -54,7 +54,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/AironDev"><img src="https://avatars1.githubusercontent.com/u/29748407?v=4" width="100px;" alt=""/><br /><sub><b>Airon Dev</b></sub></a><br /><a href="#infra-AironDev" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=AironDev" title="Tests">⚠️</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=AironDev" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Taiwrash"><img src="https://avatars3.githubusercontent.com/u/49725691?v=4" width="100px;" alt=""/><br /><sub><b>Mudasiru Rasheed</b></sub></a><br /><a href="#infra-Taiwrash" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=Taiwrash" title="Tests">⚠️</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=Taiwrash" title="Code">💻</a></td>
+<<
+    <td align="center"><a href="https://github.com/ddewzy"><img src="https://avatars3.githubusercontent.com/u/64855703?v=4" width="100px;" alt=""/><br /><sub><b>ddewzy</b></sub></a><br /><a href="#infra-ddewzy" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=ddewzy" title="Tests">⚠️</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=ddewzy" title="Code">💻</a></td>
+
+    <
   </tr>
 </table>
 
