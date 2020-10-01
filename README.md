@@ -1,6 +1,6 @@
 # dev-resume
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome to DEV-RESUME <https://dev-resume.herokuapp.com>.
@@ -57,10 +57,15 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/AironDev"><img src="https://avatars1.githubusercontent.com/u/29748407?v=4" width="100px;" alt=""/><br /><sub><b>Airon Dev</b></sub></a><br /><a href="#infra-AironDev" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=AironDev" title="Tests">⚠️</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=AironDev" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/ddewzy"><img src="https://avatars3.githubusercontent.com/u/64855703?v=4" width="100px;" alt=""/><br /><sub><b>ddewzy</b></sub></a><br /><a href="#infra-ddewzy" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=ddewzy" title="Tests">⚠️</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=ddewzy" title="Code">💻</a></td>
     <td align="center"><a href="http://fayd.me"><img src="https://avatars3.githubusercontent.com/u/36627266?v=4" width="100px;" alt=""/><br /><sub><b>fayd</b></sub></a><br /><a href="#infra-faisalsayed10" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=faisalsayed10" title="Tests">⚠️</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=faisalsayed10" title="Code">💻</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://muhammadusmanali.codes/"><img src="https://avatars1.githubusercontent.com/u/38491660?v=4" width="100px;" alt=""/><br /><sub><b>Usman Ali</b></sub></a><br /><a href="#infra-muhammadosmanali" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=muhammadosmanali" title="Tests">⚠️</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=muhammadosmanali" title="Code">💻</a></td>
     <td align="center"><a href="http://www.u-mulder.com"><img src="https://avatars0.githubusercontent.com/u/1175728?v=4" width="100px;" alt=""/><br /><sub><b>u_mulder</b></sub></a><br /><a href="#infra-u-mulder" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=u-mulder" title="Tests">⚠️</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=u-mulder" title="Code">💻</a></td>
     <td align="center"><a href="https://blogzen.js.org"><img src="https://avatars3.githubusercontent.com/u/7939342?v=4" width="100px;" alt=""/><br /><sub><b>Zen</b></sub></a><br /><a href="#infra-mzaini30" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=mzaini30" title="Tests">⚠️</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=mzaini30" title="Code">💻</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="http://perezarturo.github.io"><img src="https://avatars0.githubusercontent.com/u/8907080?v=4" width="100px;" alt=""/><br /><sub><b>Arturo Perez</b></sub></a><br /><a href="#infra-PerezArturo" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=PerezArturo" title="Tests">⚠️</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=PerezArturo" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/nikhilswain"><img src="https://avatars2.githubusercontent.com/u/39958596?v=4" width="100px;" alt=""/><br /><sub><b>Nikhil Kumar Swain</b></sub></a><br /><a href="#infra-nikhilswain" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=nikhilswain" title="Tests">⚠️</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=nikhilswain" title="Code">💻</a></td>
   </tr>
 </table>
 
