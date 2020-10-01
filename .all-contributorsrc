@@ -59,6 +59,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "mzaini30",
+      "name": "Zen",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7939342?v=4",
+      "profile": "https://blogzen.js.org",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
