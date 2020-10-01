@@ -37,6 +37,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "muhammadosmanali",
+      "name": "Usman Ali",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/38491660?v=4",
+      "profile": "https://muhammadusmanali.codes/",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
