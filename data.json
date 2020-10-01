@@ -156,6 +156,19 @@
       "facebook": "",
       "linkedin": "",
       "github": "Mel-louie"
+    },
+    {
+      "id": 10,
+      "imageName": "Jay_developer.jpg",
+      "name": "Jayendran",
+      "role": "Software Engineer",
+      "about": "MCT | Cloud Architect | Azure | AI Eng | DevOps | Stackoverflow | Technical Writer | Power BI Super User | Learner,
+      "funfact": "Let's try to fix this bug!!",
+      "twitter": "jayendran_a",
+      "facebook": "",
+      "linkedin": "",
+      "github": "jayendranarumugam"
     }
+    
   ]
 }
