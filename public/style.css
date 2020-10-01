@@ -4,38 +4,38 @@
   box-sizing: border-box;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 main {
   width: 100vw;
-  /* height: 100vh; */
+  height: 100vh;
 }
 
 .header {
   width: 100%;
-  height: 500px;
   display: flex;
   justify-content: center;
   align-items: center;
   background: #302d3a;
   flex-direction: column;
+  text-align: center;
 }
 
-.inner-header {
-  margin-top: 10%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
+.logo {
+  margin-top: 6rem;
+  margin-bottom: 1rem;
 }
 
 .logo img {
-  width: 50px;
-  height: 50px;
+  width: 10rem;
 }
 
 .header h3 {
-  font-size: 2em;
+  font-size: 2rem;
   color: #ffffff;
-  margin: 0 20px 20px 20px;
+  margin: 1rem 0;
   width: 80%;
   font-family: monospace;
 }
@@ -46,26 +46,23 @@ main {
 .header p {
   color: #a09bb6;
   width: 80%;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
-.contributor {
+.btn-hero {
   width: 40%;
-  height: 45px;
+  padding: 1.3rem 0;
   background: #a09bb6;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   border-radius: 50px;
-  margin: 40px 0;
+  margin-top: 2rem;
+  margin-bottom: 6rem;
   transition: all ease-in-out 0.5s;
 }
 
-.contributor:hover {
+.btn-hero:hover {
   background: linear-gradient(45deg, rgb(21, 3, 61), rgb(22, 76, 107));
-  border: 3px solid #0b0b0e;
 }
-.contributor a {
+.btn {
   text-decoration: none;
   font-size: 10px;
   text-transform: uppercase;
@@ -81,7 +78,6 @@ main {
 .wrapper {
   width: 100vw;
   display: flex;
-  /* align-items: center; */
   justify-content: center;
 }
 
