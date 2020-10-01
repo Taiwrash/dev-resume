@@ -64,6 +64,19 @@
       "linkedin": "",
       "github": "ddewzy"
     },
+
+    {
+      "id": 21,
+      "imageName": "usman.png",
+      "name": "Muhammad Usman Ali",
+      "role": "Web Developer",
+      "about": "I am Web developer and CS Graduate from Pakistan. I love to do programming and solve problems.",
+      "funfact": "Be your own boss",
+      "twitter": "mua_320",
+      "facebook": "usmanali",
+      "linkedin": "usman-ali-508a94137",
+      "github": "muhammadosmanali"
+    },
     {
       "id": 5,
       "imageName": "Faisalsayed10.jpg",
