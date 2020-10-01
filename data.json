@@ -120,6 +120,18 @@
       "facebook": "",
       "linkedin": "",
       "github": "faisalsayed10"
+    },
+    {
+      "id": 17,
+      "imageName": "karn.png",
+      "name": "Karan Maurya",
+      "role": "Full Stack Developer",
+      "about": "I am Karan Maurya, a React+Django Full Stack Developer from India.",
+      "funfact": "Basically anything that melts can be made into glass!",
+      "twitter": "_Karan21",
+      "facebook": "",
+      "linkedin": "karn21",
+      "github": "karn21"
     }
   ]
 }
