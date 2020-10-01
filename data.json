@@ -179,6 +179,18 @@
       "facebook": "rojasjuniore",
       "linkedin": "rojasjuniore",
       "github": "rojasjuniore"
+    },
+    {
+      "id": 20,
+      "imageName": "charley.jpg",
+      "name": "Williams Charles",
+      "role": "Backend Developer",
+      "about": "I am charles, I love coding, Deeply in love with Go and Python",
+      "funfact": "Documentation is a love letter that you write to your future self.",
+      "twitter": "willy_charley",
+      "facebook": "charleyvbez",
+      "linkedin": "charleyvibez",
+      "github": "charleyvibez"
     }
   ]
 }
