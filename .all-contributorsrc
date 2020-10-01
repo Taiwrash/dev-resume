@@ -81,6 +81,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "nikhilswain",
+      "name": "Nikhil Kumar Swain",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/39958596?v=4",
+      "profile": "https://github.com/nikhilswain",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 3,
