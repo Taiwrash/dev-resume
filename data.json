@@ -76,6 +76,18 @@
       "facebook": "usmanali",
       "linkedin": "usman-ali-508a94137",
       "github": "muhammadosmanali"
+    },
+    {
+      "id": 5,
+      "imageName": "Faisalsayed10.jpg",
+      "name": "Faisal Sayed",
+      "role": "Web Developer",
+      "about": "Hi! My name is Faisal. I'm a web developer especially Front-end Dev.",
+      "funfact": "Basically anything that melts can be made into glass!",
+      "twitter": "faisalsayed05",
+      "facebook": "",
+      "linkedin": "",
+      "github": "faisalsayed10"
     }
   ]
 }
