@@ -179,6 +179,18 @@
       "facebook": "rojasjuniore",
       "linkedin": "rojasjuniore",
       "github": "rojasjuniore"
-    }
+    },
+    {
+      "id": 101,
+      "imageName": "Kshitij.png",
+      "name": "Kshitij Singh",
+      "role": "I'm Kshitij Singh, a Full Stack Dev & Product Engineer ",
+      "about": "As a software engineer, i look forward to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. ",
+      "funfact": "AI is not human yet.",
+      "twitter": "ikshitijsingh",
+      "facebook": "kshitijsingh",
+      "linkedin": "ikshitijsingh",
+      "github": "singhkshitij"
+    },
   ]
 }
