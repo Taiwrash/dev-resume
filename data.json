@@ -156,6 +156,18 @@
       "facebook": "",
       "linkedin": "",
       "github": "Mel-louie"
+    },
+    {
+      "id": 42,
+      "imageName": "param.png",
+      "name": "Paramvir Singh",
+      "role": "Computer Science Student",
+      "about": "Hey. Full stack web developer from India",
+      "funfact": "Giant pandas may be raccoons",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+      "github": "Paramvir109"
     }
   ]
 }
