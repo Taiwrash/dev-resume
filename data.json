@@ -120,6 +120,18 @@
       "facebook": "",
       "linkedin": "",
       "github": "faisalsayed10"
+    },
+    {
+      "id": 7,
+      "imageName": "TechLead-21.png",
+      "name": "Jayesh Tembhekar",
+      "role": "Frontend Developer",
+      "about": "Hello world!! this is Jayesh, a passionate web developer from India, a Data Science enthusiats too.",
+      "funfact": "A debuggers don't remove bugs, they only show them in slow motion.",
+      "twitter": "jayeshintech",
+      "facebook": "Jayesh Tembhekar",
+      "linkedin": "jayeshintech",
+      "github": "TechLead-21"
     }
   ]
 }
