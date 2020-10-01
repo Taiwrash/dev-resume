@@ -66,6 +66,18 @@
     },
 
     {
+      "id": 5,
+      "imageName": "mzaini30.jpeg",
+      "name": "Zen",
+      "role": "Book layouter at Caraka Publishing",
+      "about": "Hi! My name is Zen. I'm working at Caraka Publishing as layouter, Mahad Baitul Izzah as teacher, and Sinar Jaya Bike as mechanic",
+      "funfact": "I love Javascript (And Svelte!)",
+      "twitter": "",
+      "facebook": "Zen",
+      "linkedin": "",
+      "github": "mzaini30"
+      },
+    {
       "id": 21,
       "imageName": "usman.png",
       "name": "Muhammad Usman Ali",
