@@ -179,6 +179,18 @@
       "facebook": "rojasjuniore",
       "linkedin": "rojasjuniore",
       "github": "rojasjuniore"
+    },
+    {
+      "id": 491,
+      "imageName": "rootz491.jpg",
+      "name": "Karan Sharma",
+      "role": "Web Developer",
+      "about": "Hi! My name is Karan. I'm a web developer, just started few months ago. Will reach there soon.",
+      "funfact": "Basically anything that melts can be made into glass!",
+      "twitter": "karansh491",
+      "facebook": "",
+      "linkedin": "",
+      "github": "rootz491"
     }
   ]
 }
