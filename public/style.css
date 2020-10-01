@@ -183,10 +183,8 @@ input:hover {
 }
 
 footer {
-  width: 100vw;
   font-weight: bold;
-  margin: 50px 0 0 0;
-  height: 30px;
   color: #ffffff;
   background: linear-gradient(45deg, rgb(95, 92, 117), rgb(59, 62, 65));
+  padding: 2rem;
 }
