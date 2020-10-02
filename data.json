@@ -179,6 +179,18 @@
       "facebook": "rojasjuniore",
       "linkedin": "rojasjuniore",
       "github": "rojasjuniore"
+    },
+    {
+      "id": 13,
+      "imageName": "Wall.jpg",
+      "name": "adarsh046",
+      "role": "Unreal Engine Dev",
+      "about": "Make games",
+      "funfact": "Goosebumps are meant to ward off predators.",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+      "github": "github.com/adarsh046"
     }
   ]
 }
