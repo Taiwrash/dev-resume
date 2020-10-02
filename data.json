@@ -179,6 +179,18 @@
       "facebook": "rojasjuniore",
       "linkedin": "rojasjuniore",
       "github": "rojasjuniore"
+    },
+    {
+      "id": 24,
+      "imageName": "WonderWomen.png",
+      "name": "Khusboo",
+      "role": "A codeNewbie",
+      "about": "I love to learn things by making them",
+      "funfact": "Scotland has 421 words for “snow”",
+      "twitter": "Khusboo-Bothra",
+      "facebook": " ",
+      "linkedin": "Khusboo Bothra",
+      "github": "Khusboo Bothra"
     }
   ]
 }
