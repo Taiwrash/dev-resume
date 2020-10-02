@@ -179,6 +179,18 @@
       "facebook": "rojasjuniore",
       "linkedin": "rojasjuniore",
       "github": "rojasjuniore"
+    },
+    {
+      "id": 69,
+      "imageName": "JackTDC.jpg",
+      "name": "JackTDC",
+      "role": "Computer Programmer",
+      "about": "Hello,My name is JackTDC and I am 15 years old",
+      "funfact": "The water you drink is 100% Dinosaur pee",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+      "github": "JackTDC"
     }
   ]
 }
