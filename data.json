@@ -179,6 +179,18 @@
       "facebook": "rojasjuniore",
       "linkedin": "rojasjuniore",
       "github": "rojasjuniore"
+    },
+    {
+      "id": 24,
+      "imageName": "aditya_A.jpg",
+      "name": "Aditya Anand",
+      "role": "Student, Noob",
+      "about": "Hi there! My name is aditya_A. I am a noob Web Developer.",
+      "funfact": "More than 570 new websites are created every minute.",
+      "twitter": "Aditya Anand",
+      "facebook": "Aditya Anand",
+      "linkedin": "Aditya Anand",
+      "github": "Aditya Anand"
     }
   ]
 }
