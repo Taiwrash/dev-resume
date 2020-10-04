@@ -157,18 +157,6 @@
       "github": "Mel-louie"
     },
     {
-      "id": 42,
-      "imageName": "my_git_avatar.jpg",
-      "name": "Mel-louie",
-      "role": "Computer Programming Student",
-      "about": "Hi! I'm Mel-louie and I learn computer programming from France.",
-      "funfact": "Giant pandas may be raccoons",
-      "twitter": "",
-      "facebook": "",
-      "linkedin": "",
-      "github": "Mel-louie"
-    },
-    {
       "id": 99,
       "imageName": "rojasjuniore.jpeg",
       "name": "Junior-Rojas",
@@ -179,6 +167,18 @@
       "facebook": "rojasjuniore",
       "linkedin": "rojasjuniore",
       "github": "rojasjuniore"
+    },
+    {
+      "id": 69,
+      "imageName": "anwareset.png",
+      "name": "Muhammad Tri Anwarruddin",
+      "role": "Linux System Engineer - Network Administrator - Web BackEnd Developer",
+      "about": "Im a GNU/Linux Enthusiast",
+      "funfact": "Big and Fat",
+      "twitter": "trianwar101",
+      "facebook": "",
+      "linkedin": "trianwar",
+      "github": "anwareset"
     }
   ]
 }
