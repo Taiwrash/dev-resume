@@ -168,6 +168,19 @@
       "linkedin": "",
       "github": "Mel-louie"
     },
+        {
+      id: #123,
+      "imageName": "ahthserhsluk.jpeg",
+      "name": "Ahthserhsluk",
+      "about": "love doing competitive programming",
+      "funfact": "Giant pandas may be raccoons",
+      "twitter": "ahtherhsluk",
+      "facebook": "ahtherhsluk",
+      "linkedin": "ahtherhsluk",
+      "github": "ahtherhsluk"
+      
+    },
+
     {
       "id": 99,
       "imageName": "rojasjuniore.jpeg",
