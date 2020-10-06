@@ -179,6 +179,19 @@
       "facebook": "rojasjuniore",
       "linkedin": "rojasjuniore",
       "github": "rojasjuniore"
-    }
+    },
+    {
+      "id": 100,
+      "imageName":"rizkypakpahan.jpg",
+      "name": "Rizky Kurniawan Pakpahan",
+      "role": "Student & Technical Support",
+      "about": "Hello guys, I'm Rizky beginner learn computer programming from Indonesia",
+      "funfact": "i wont to be a full stack developer",
+      "twitter":"",
+      "facebook":"riskykurniawan.pakpahan",
+      "linkedin":"rizky-kurniawan-pakpahan-678a82167",
+      "github":"rizkypakpahan"
+    },
+
   ]
 }
