@@ -179,6 +179,18 @@
       "facebook": "rojasjuniore",
       "linkedin": "rojasjuniore",
       "github": "rojasjuniore"
+    },
+    {
+      "id": 100,
+      "imageName": "janis.jpg",
+      "name": "Jānis Īvāns",
+      "role": "Computer Programming Student",
+      "about": "My name is Jānis, and I'm new to programming, so this is a nice and new expirience!",
+      "funfact": "The first computer virus was created in 1983.",
+      "twitter": "GamerWithoutNO",
+      "facebook": "Janis Ivans",
+      "linkedin": "",
+      "github": "ANormalStick"
     }
   ]
 }
