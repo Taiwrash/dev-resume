@@ -85,6 +85,18 @@
       "github": "mzaini30"
     },
     {
+      "id": 22,
+      "imageName": "mrtampangit.jpg",
+      "name": "Mrtampan",
+      "role": "Blogging in puppetkode",
+      "about": "Hi! My name is Mrtampan. I'm working at Nakeda, I like blogging and sharing knowledge",
+      "funfact": "I love Javascript (And Vue!)",
+      "twitter": "",
+      "facebook": "Achmad rivaldi",
+      "linkedin": "",
+      "github": "mrtampan"
+    },
+    {
       "id": 21,
       "imageName": "usman.png",
       "name": "Muhammad Usman Ali",
