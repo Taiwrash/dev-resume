@@ -168,8 +168,21 @@
       "linkedin": "",
       "github": "Mel-louie"
     },
-        {
-      id: #123,
+	{
+	  "id": 110,
+	  "imageName": "SushilBajracharya.png",
+	  "name": "Sushil Bajracharya",
+	  "role": "React Developer",
+	  "about": "Heyo! I am Sushil Bajracharya from Nepal. I am a react developer and I also love game development",
+	  "funfact": "Adding your age with your date of birth gives you the current year.",
+	  "twitter": "",
+	  "facebook": "",
+	  "linkedin": "",
+	  "github": "SushilBajracharya01"
+	},
+
+  {
+      id: 123,
       "imageName": "ahthserhsluk.jpeg",
       "name": "Ahthserhsluk",
       "about": "love doing competitive programming",
@@ -181,11 +194,12 @@
       
     },
 
+
     {
-      "id": 99,
+      "id": 199,
       "imageName": "rojasjuniore.jpeg",
       "name": "Junior-Rojas",
-      "role": "casi nerd 👨🏻‍💻, casi pelado👩🏻‍🦲, casi fit 🏋🏻‍♀ ",
+      "role": "casi nerd ???????, casi pelado???????, casi fit ?????? ",
       "about": "do-programming-like-movies-and-sports.com",
       "funfact": "Giant pandas may be raccoons",
       "twitter": "rojasjuniore",
