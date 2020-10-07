@@ -157,7 +157,7 @@
       "github": "Mel-louie"
     },
     {
-      "id": 42,
+      "id": 99,
       "imageName": "my_git_avatar.jpg",
       "name": "Mel-louie",
       "role": "Computer Programming Student",
@@ -168,11 +168,38 @@
       "linkedin": "",
       "github": "Mel-louie"
     },
+	{
+	  "id": 110,
+	  "imageName": "SushilBajracharya.png",
+	  "name": "Sushil Bajracharya",
+	  "role": "React Developer",
+	  "about": "Heyo! I am Sushil Bajracharya from Nepal. I am a react developer and I also love game development",
+	  "funfact": "Adding your age with your date of birth gives you the current year.",
+	  "twitter": "",
+	  "facebook": "",
+	  "linkedin": "",
+	  "github": "SushilBajracharya01"
+	},
+
+  {
+      id: 123,
+      "imageName": "ahthserhsluk.jpeg",
+      "name": "Ahthserhsluk",
+      "about": "love doing competitive programming",
+      "funfact": "Giant pandas may be raccoons",
+      "twitter": "ahtherhsluk",
+      "facebook": "ahtherhsluk",
+      "linkedin": "ahtherhsluk",
+      "github": "ahtherhsluk"
+      
+    },
+
+
     {
-      "id": 99,
+      "id": 199,
       "imageName": "rojasjuniore.jpeg",
       "name": "Junior-Rojas",
-      "role": "casi nerd 👨🏻‍💻, casi pelado👩🏻‍🦲, casi fit 🏋🏻‍♀ ",
+      "role": "casi nerd ???????, casi pelado???????, casi fit ?????? ",
       "about": "do-programming-like-movies-and-sports.com",
       "funfact": "Giant pandas may be raccoons",
       "twitter": "rojasjuniore",
@@ -191,6 +218,66 @@
       "facebook": "",
       "linkedin": "",
       "github": "github.com/adarsh046"
+    },
+    {
+      "id": 69,
+      "imageName": "anwareset.png",
+      "name": "Muhammad Tri Anwarruddin",
+      "role": "Linux System Engineer - Network Administrator - Web BackEnd Developer",
+      "about": "Im a GNU/Linux Enthusiast",
+      "funfact": "Big and Fat",
+      "twitter": "trianwar101",
+      "facebook": "",
+      "linkedin": "trianwar",
+      "github": "anwareset"
+    },
+    {
+      "id": 100,
+      "imageName": "leom.jpeg",
+      "name": "Ayodele-Leom",
+      "role": "Community Developer, Wordpress and Frontend Developer",
+      "about": "A lover of nature, good food and peaceful living",
+      "funfact": "Eat all you can because nothing dey this life",
+      "twitter": "leomofthings",
+      "facebook": "",
+      "linkedin": "aransiolaayo",
+      "github": "CodeLeom"
+    },
+    {
+      "id": 101,
+      "imageName": "isah.jpeg",
+      "name": "Audu isah",
+      "role": "flutter and andriod developer",
+      "about": "just a cool person",
+      "funfact": "love learning new things",
+      "twitter": "iprince_isah",
+      "facebook": "",
+      "linkedin": "audu isah",
+      "github": "princeisah"
+    }
+     {
+      "id":5,
+      "imageName":"hello.png",
+      "name":"Kartik kumar",
+      "role":"Open source contributor",
+      "about":"Hello, my name is Kartik.",
+      "funfact":"I'm following the people instead of using my brain",
+      "twitter":"final_jpeg",
+      "facebook":"",
+      "linkedin":"",
+      "github":"iamKaartik"
+    }
+{
+      "id": 1000,
+      "imageName": "avatar.png",
+      "name": "Leon Prasetya",
+      "role": "Full Stack Web Dev",
+      "about": "Love code",
+      "funfact": "Chiken",
+      "twitter": "ledleledle",
+      "facebook": "ledleledle",
+      "linkedin": "ledleledle",
+      "github": "ledleledle"
     }
   ]
 }
