@@ -216,5 +216,17 @@
       "linkedin":"",
       "github":"iamKaartik"
     }
+{
+      "id": 1000,
+      "imageName": "avatar.png",
+      "name": "Leon Prasetya",
+      "role": "Full Stack Web Dev",
+      "about": "Love code",
+      "funfact": "Chiken",
+      "twitter": "ledleledle",
+      "facebook": "ledleledle",
+      "linkedin": "ledleledle",
+      "github": "ledleledle"
+    }
   ]
 }
