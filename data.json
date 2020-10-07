@@ -179,6 +179,18 @@
       "facebook": "rojasjuniore",
       "linkedin": "rojasjuniore",
       "github": "rojasjuniore"
+    },
+    {
+      "id": 100,
+      "imageName": "leom.jpeg",
+      "name": "Ayodele-Leom",
+      "role": "Community Developer, Wordpress and Frontend Developer",
+      "about": "A lover of nature, good food and peaceful living",
+      "funfact": "Eat all you can because nothing dey this life",
+      "twitter": "leomofthings",
+      "facebook": "",
+      "linkedin": "aransiolaayo",
+      "github": "CodeLeom"
     }
   ]
 }
