@@ -157,7 +157,7 @@
       "github": "Mel-louie"
     },
     {
-      "id": 42,
+      "id": 99,
       "imageName": "my_git_avatar.jpg",
       "name": "Mel-louie",
       "role": "Computer Programming Student",
@@ -206,6 +206,18 @@
       "facebook": "rojasjuniore",
       "linkedin": "rojasjuniore",
       "github": "rojasjuniore"
+    },
+    {
+      "id": 69,
+      "imageName": "anwareset.png",
+      "name": "Muhammad Tri Anwarruddin",
+      "role": "Linux System Engineer - Network Administrator - Web BackEnd Developer",
+      "about": "Im a GNU/Linux Enthusiast",
+      "funfact": "Big and Fat",
+      "twitter": "trianwar101",
+      "facebook": "",
+      "linkedin": "trianwar",
+      "github": "anwareset"
     },
     {
       "id": 100,
