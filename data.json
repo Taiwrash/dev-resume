@@ -302,6 +302,18 @@
       "facebook": "ledleledle",
       "linkedin": "ledleledle",
       "github": "ledleledle"
+    },
+    {
+      "id":5,
+      "imageName":"ANormalStick.png",
+      "name":"Jānis Īvāns",
+      "role":"Open source contributor",
+      "about":"I'm learning programming!",
+      "funfact":"Brain, the first PC virus, began infecting 5.2 floppy disks in 1986.",
+      "twitter":"",
+      "facebook":"",
+      "linkedin":"",
+      "github":"ANormalStick"
     }
   ]
 }
