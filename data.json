@@ -203,10 +203,7 @@
       "facebook": "ahtherhsluk",
       "linkedin": "ahtherhsluk",
       "github": "ahtherhsluk"
-      
     },
-
-
     {
       "id": 199,
       "imageName": "rojasjuniore.jpeg",
@@ -302,6 +299,18 @@
       "facebook": "ledleledle",
       "linkedin": "ledleledle",
       "github": "ledleledle"
+    },
+    {
+      "id": 98,
+      "imageName": "jvargas98.jpeg",
+      "name": "Jorge Vargas",
+      "role": "Software Engineer, Web Developer",
+      "about": "I'm Vargas, a web developer from Mexico <3",
+      "funfact": "May the Force be with you",
+      "twitter": "jvargas_98",
+      "facebook": "",
+      "linkedin": "jvargas98",
+      "github": "jvargas98"
     }
   ]
 }
