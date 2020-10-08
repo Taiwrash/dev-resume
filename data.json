@@ -191,6 +191,18 @@
       "facebook": "",
       "linkedin": "aransiolaayo",
       "github": "CodeLeom"
+    },
+    {
+      "id": 101,
+      "imageName": "isah.jpeg",
+      "name": "Audu isah",
+      "role": "flutter and andriod developer",
+      "about": "just a cool person",
+      "funfact": "love learning new things",
+      "twitter": "iprince_isah",
+      "facebook": "",
+      "linkedin": "audu isah",
+      "github": "princeisah"
     }
   ]
 }
