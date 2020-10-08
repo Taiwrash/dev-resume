@@ -194,7 +194,7 @@
 	},
 
   {
-      id: 123,
+      "id": 123,
       "imageName": "ahthserhsluk.jpeg",
       "name": "Ahthserhsluk",
       "about": "love doing competitive programming",
@@ -278,7 +278,7 @@
       "facebook": "",
       "linkedin": "audu isah",
       "github": "princeisah"
-    }
+    },
      {
       "id":5,
       "imageName":"hello.png",
@@ -290,7 +290,7 @@
       "facebook":"",
       "linkedin":"",
       "github":"iamKaartik"
-    }
+    },
 {
       "id": 1000,
       "imageName": "avatar.png",
