@@ -108,6 +108,18 @@
       "linkedin": "usman-ali-508a94137",
       "github": "muhammadosmanali"
     },
+	{
+      "id": 53,
+      "imageName": "hi.png",
+      "name": "Fonta",
+      "role": "Backend Developer",
+      "about": "I love programming",
+      "funfact": "The circumference of the Earth at the equator is 25,000 miles!",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+      "github": "Fonta22"
+    },
     {
       "id": 5,
       "imageName": "Faisalsayed10.jpg",
