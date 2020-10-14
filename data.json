@@ -311,6 +311,18 @@
       "facebook": "",
       "linkedin": "jvargas98",
       "github": "jvargas98"
+    },
+    {
+      "id": 7110,
+      "imageName": "Greg7110.png",
+      "name": "Grégory Helbin",
+      "role": "Software Developer, Web Developer",
+      "about": "I work in Belgium at the UMONS, much more than a university",
+      "funfact": "Dev Low Peur!",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "Grégory Helbin",
+      "github": "Greg7110"
     }
   ]
 }
