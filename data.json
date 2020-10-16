@@ -1,5 +1,17 @@
 {
   "details": [
+     {
+      "id": 1,
+      "imageName": "jatinsaini137.jpg",
+      "name": "Jatin Saini",
+      "role": "Web Developer , Beckend Developer",
+      "about": "I am Jatin Saini I love coding and as well impacting people around me. Community building is one of my interest ",
+      "funfact": "Flaws require more concentration than Success",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "jatin-saini",
+      "github": "jatinsaini137"
+    },
     {
       "id": 1,
       "imageName": "rasheeed.png",
