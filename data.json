@@ -311,6 +311,18 @@
       "facebook": "",
       "linkedin": "jvargas98",
       "github": "jvargas98"
+    },
+    {
+      "id": 99,
+      "imageName": "ryan.jpg",
+      "name": "Ryan Parrangan",
+      "role": "Front End Web Developer",
+      "about": "I'm Ryan, i am front end web developer from Indonesia :)",
+      "funfact": "I love learning about Programming :)",
+      "twitter": "ryanparrangan",
+      "facebook": "",
+      "linkedin": "Ryan Parrangan",
+      "github": "ryan-parrangan"
     }
   ]
 }
