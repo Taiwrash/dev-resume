@@ -311,6 +311,18 @@
       "facebook": "",
       "linkedin": "jvargas98",
       "github": "jvargas98"
+    },
+    {
+      "id": 999,
+      "imageName": "girlie.jpg",
+      "name": "Amruta Kar",
+      "role": "Coding Enthusiast",
+      "about": "I'm Amruta, a codegeek from India",
+      "funfact": "I spread only joy",
+      "twitter": "don't have",
+      "facebook": "don't have",
+      "linkedin": "dont'have",
+      "github": "https://github.com/Amruta0509"
     }
   ]
 }
