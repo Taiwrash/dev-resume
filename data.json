@@ -13,7 +13,7 @@
       "github": "Taiwrash"
     },
     {
-      "id": 2,
+      "id": 1,
       "imageName": "",
       "name": "Rasheed Taiwo",
       "role": "Frontend Developer",
@@ -25,7 +25,7 @@
       "github": "rasheedtaiwo"
     },
     {
-      "id": 3,
+      "id": 2,
       "imageName": "airondev.jpg",
       "name": "Aaron, Aniebiet B.",
       "role": "Backend Developer",
@@ -37,7 +37,7 @@
       "github": "airondev"
     },
     {
-      "id": 4,
+      "id": 3,
       "imageName": "brandonbawe.jpg",
       "name": "Damue Brandon Brandon",
       "role": "Fullstack web developer",
@@ -61,7 +61,7 @@
       "github": "PerezArturo"
     },
     {
-      "id": 6,
+      "id": 4,
       "imageName": "myGit.jpg",
       "name": "Dalene Dews",
       "role": "Boot Camp Student",
@@ -73,7 +73,7 @@
       "github": "ddewzy"
     },
     {
-      "id": 7,
+      "id": 5,
       "imageName": "mzaini30.jpeg",
       "name": "Zen",
       "role": "Book layouter at Caraka Publishing",
@@ -85,7 +85,7 @@
       "github": "mzaini30"
     },
     {
-      "id": 8,
+      "id": 22,
       "imageName": "mrtampangit.jpg",
       "name": "Mrtampan",
       "role": "Blogging in puppetkode",
@@ -97,7 +97,7 @@
       "github": "mrtampan"
     },
     {
-      "id": 9,
+      "id": 21,
       "imageName": "usman.png",
       "name": "Muhammad Usman Ali",
       "role": "Web Developer",
@@ -109,7 +109,7 @@
       "github": "muhammadosmanali"
     },
     {
-      "id": 10,
+      "id": 5,
       "imageName": "Faisalsayed10.jpg",
       "name": "Faisal Sayed",
       "role": "Web Developer",
@@ -121,7 +121,7 @@
       "github": "faisalsayed10"
     },
     {
-      "id": 11,
+      "id": 6,
       "imageName": "nikhilswain.jpg",
       "name": "Nikhil Kumar Swain",
       "role": "Web Developer",
@@ -133,7 +133,7 @@
       "github": "faisalsayed10"
     },
     {
-      "id": 12,
+      "id": 7,
       "imageName": "TechLead-21.png",
       "name": "Jayesh Tembhekar",
       "role": "Frontend Developer",
@@ -145,7 +145,7 @@
       "github": "TechLead-21"
     },
     {
-      "id": 13,
+      "id": 17,
       "imageName": "karn.png",
       "name": "Karan Maurya",
       "role": "Full Stack Developer",
@@ -157,7 +157,7 @@
       "github": "karn21"
     },
     {
-      "id": 14,
+      "id": 42,
       "imageName": "my_git_avatar.jpg",
       "name": "Mel-louie",
       "role": "Computer Programming Student",
@@ -169,7 +169,7 @@
       "github": "Mel-louie"
     },
     {
-      "id": 15,
+      "id": 99,
       "imageName": "my_git_avatar.jpg",
       "name": "Mel-louie",
       "role": "Computer Programming Student",
@@ -181,7 +181,7 @@
       "github": "Mel-louie"
     },
 	{
-	  "id": 16,
+	  "id": 110,
 	  "imageName": "SushilBajracharya.png",
 	  "name": "Sushil Bajracharya",
 	  "role": "React Developer",
@@ -194,7 +194,7 @@
 	},
 
   {
-      "id": 17,
+      "id": 123,
       "imageName": "ahthserhsluk.jpeg",
       "name": "Ahthserhsluk",
       "about": "love doing competitive programming",
@@ -205,7 +205,7 @@
       "github": "ahtherhsluk"
     },
     {
-      "id": 18,
+      "id": 199,
       "imageName": "rojasjuniore.jpeg",
       "name": "Junior-Rojas",
       "role": "casi nerd ???????, casi pelado???????, casi fit ?????? ",
@@ -217,7 +217,7 @@
       "github": "rojasjuniore"
     },
     {
-      "id": 19,
+      "id": 24,
       "imageName": "WonderWomen.png",
       "name": "Khusboo",
       "role": "A codeNewbie",
@@ -229,7 +229,7 @@
       "github": "Khusboo Bothra"
     },
     {
-      "id": 20,
+      "id": 13,
       "imageName": "Wall.jpg",
       "name": "adarsh046",
       "role": "Unreal Engine Dev",
@@ -241,7 +241,7 @@
       "github": "github.com/adarsh046"
     },
     {
-      "id": 21,
+      "id": 69,
       "imageName": "anwareset.png",
       "name": "Muhammad Tri Anwarruddin",
       "role": "Linux System Engineer - Network Administrator - Web BackEnd Developer",
@@ -253,7 +253,7 @@
       "github": "anwareset"
     },
     {
-      "id": 22,
+      "id": 100,
       "imageName": "leom.jpeg",
       "name": "Ayodele-Leom",
       "role": "Community Developer, Wordpress and Frontend Developer",
@@ -265,7 +265,7 @@
       "github": "CodeLeom"
     },
     {
-      "id": 23,
+      "id": 101,
       "imageName": "isah.jpeg",
       "name": "Audu isah",
       "role": "flutter and andriod developer",
@@ -277,7 +277,7 @@
       "github": "princeisah"
     },
      {
-      "id":24,
+      "id":5,
       "imageName":"hello.png",
       "name":"Kartik kumar",
       "role":"Open source contributor",
@@ -289,7 +289,7 @@
       "github":"iamKaartik"
     },
 {
-      "id": 25,
+      "id": 1000,
       "imageName": "avatar.png",
       "name": "Leon Prasetya",
       "role": "Full Stack Web Dev",
@@ -301,7 +301,7 @@
       "github": "ledleledle"
     },
     {
-      "id": 26,
+      "id": 98,
       "imageName": "jvargas98.jpeg",
       "name": "Jorge Vargas",
       "role": "Software Engineer, Web Developer",
@@ -313,7 +313,7 @@
       "github": "jvargas98"
     },
     {
-      "id": 27,
+      "id": 50,
       "imageName": "bhairavi-shah.jpg",
       "name": "Bhairavi Shah",
       "role": "Software Engineer",
