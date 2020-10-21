@@ -4,7 +4,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Hacktoberfest'20](https://img.shields.io/badge/hacktoberfest-2020-pinkpurple)](#)
 
-Welcome to DEV-RESUME <https://dev-resume.herokuapp.com>.
+Welcome to DEV-RESUME [LIVE-APP](https://dev-resume.herokuapp.com).
 
 # Aims
 
@@ -14,7 +14,7 @@ Welcome to DEV-RESUME <https://dev-resume.herokuapp.com>.
 
 # Goal
 
-- To be the No.1 point for recruiter to confirm open source contributor in Africa and the world at large
+- To be the `No.1` point for recruiter to confirm open source contributor in Africa and the world at large
 
 # How To Contribute
 
@@ -24,15 +24,15 @@ Step 2 : Clone to your local machine
 
 Step 3 : Navigate to `public/images` folder and put your image in it (note the name of the image and its extension(.ext))
 
-Step 4 : Recap step 3 dev-resume/public/images/
+Step 4 : Recap step 3 `dev-resume/public/images/`
 
-Step 5 : Return to the root directory
+Step 5 : Return to the `root` directory
 
 Step 6 : Open `data.json` file
 
 Step 7 : Copy a complete object begins with `{` and ends with `}` inside the array
 
-Step 8 : Put a comma after the last object then paste what you copied
+Step 8 : Put a `comma` after the last object then paste what you copied
 
 Step 9 : Edit all details of the pasted object and save `data.json`
 
