@@ -311,6 +311,18 @@
       "facebook": "",
       "linkedin": "jvargas98",
       "github": "jvargas98"
+    },
+    {
+      "id": 19,
+      "imageName": "kkritii.jpg",
+      "name": "Kriti Prajapati",
+      "role": "Computer Student",
+      "about": "Hi, I am Kriti from Nepal. I love coding. I am a passionate Web developer and an AI enthsiast too.",
+      "funfact": "15 minutes of laughter equals the benefit of 2 hours sleep.",
+      "twitter": "kritiprajapati_",
+      "facebook": "",
+      "linkedin": "prajapatikriti",
+      "github": "kkritii"
     }
   ]
 }
