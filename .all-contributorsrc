@@ -93,6 +93,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "kkritii",
+      "name": "Kriti Prajapati",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/50420363?s=460&u=9f5c59b4156ddbcd6ea6d655fe13cac655cddabf&v=4",
+      "profile": "https://github.com/kkriti",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 3,
