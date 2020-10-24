@@ -24,7 +24,18 @@
       "linkedin": "rasheedtaiwo",
       "github": "rasheedtaiwo"
     },
-    {
+    {{
+      "id": 1,
+      "imageName": "",
+      "name": "situ ramotalahi",
+      "role": "python Developer",
+      "about": "I am Rahma I love coding and as well impacting people around me. Community building is one of my interest and I am a computer science student. I love JavaScript that is why I write Javascript and C++.",
+      "funfact": "Flaws require more concentration than Success",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+      "github": "rahmah18"
+    },
       "id": 2,
       "imageName": "airondev.jpg",
       "name": "Aaron, Aniebiet B.",
