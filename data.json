@@ -311,6 +311,18 @@
       "facebook": "",
       "linkedin": "jvargas98",
       "github": "jvargas98"
+    },
+    {
+      "id": 143,
+      "imageName": "sam.jpg",
+      "name": "Sam Pai",
+      "role": "Full Stack Web Developer",
+      "about": "A computer science student and aspiring Software Engineer!",
+      "funfact": "I have a YouTube video with over 6 millions views.",
+      "twitter": "PaiMoney310",
+      "facebook": "",
+      "linkedin": "SamuelPai",
+      "github": "SamuelPai"
     }
   ]
 }
