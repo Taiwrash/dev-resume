@@ -311,6 +311,18 @@
       "facebook": "",
       "linkedin": "jvargas98",
       "github": "jvargas98"
+    },
+    {
+      "id": 491,
+      "imageName": "rootz491.jpg",
+      "name": "karan sharma",
+      "role": "Web Developer",
+      "about": "I'm a compSci stduent, self-taught web-dev from India",
+      "funfact": "one day, i'll be a great dev.",
+      "twitter": "karansh491",
+      "facebook": "",
+      "linkedin": "",
+      "github": "rootz491"
     }
   ]
 }
