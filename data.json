@@ -12,7 +12,6 @@
       "linkedin": "rasheedtaiwo",
       "github": "Taiwrash"
     },
-
     {
       "id": 1,
       "imageName": "",
@@ -25,7 +24,6 @@
       "linkedin": "rasheedtaiwo",
       "github": "rasheedtaiwo"
     },
-
     {
       "id": 2,
       "imageName": "airondev.jpg",
@@ -38,7 +36,6 @@
       "linkedin": "aaron-aniebiet",
       "github": "airondev"
     },
-
     {
       "id": 3,
       "imageName": "brandonbawe.jpg",
@@ -51,7 +48,18 @@
       "linkedin": "damue-brandon-bawe",
       "github": "brandonbawe"
     },
-
+    {
+      "id": 5,
+      "imageName": "perezarturo.png",
+      "name": "Arturo Perez",
+      "role": "Web developer",
+      "about": "Just a boy trying to be a developer",
+      "funfact": "The more we talk, the less we become",
+      "twitter": "",
+      "facebook": "Arturo Perez",
+      "linkedin": "",
+      "github": "PerezArturo"
+    },
     {
       "id": 4,
       "imageName": "myGit.jpg",
@@ -63,6 +71,258 @@
       "facebook": "Dalene Dews",
       "linkedin": "",
       "github": "ddewzy"
+    },
+    {
+      "id": 5,
+      "imageName": "mzaini30.jpeg",
+      "name": "Zen",
+      "role": "Book layouter at Caraka Publishing",
+      "about": "Hi! My name is Zen. I'm working at Caraka Publishing as layouter, Mahad Baitul Izzah as teacher, and Sinar Jaya Bike as mechanic",
+      "funfact": "I love Javascript (And Svelte!)",
+      "twitter": "",
+      "facebook": "Zen",
+      "linkedin": "",
+      "github": "mzaini30"
+    },
+    {
+      "id": 22,
+      "imageName": "mrtampangit.jpg",
+      "name": "Mrtampan",
+      "role": "Blogging in puppetkode",
+      "about": "Hi! My name is Mrtampan. I'm working at Nakeda, I like blogging and sharing knowledge",
+      "funfact": "I love Javascript (And Vue!)",
+      "twitter": "",
+      "facebook": "Achmad rivaldi",
+      "linkedin": "",
+      "github": "mrtampan"
+    },
+    {
+      "id": 21,
+      "imageName": "usman.png",
+      "name": "Muhammad Usman Ali",
+      "role": "Web Developer",
+      "about": "I am Web developer and CS Graduate from Pakistan. I love to do programming and solve problems.",
+      "funfact": "Be your own boss",
+      "twitter": "mua_320",
+      "facebook": "usmanali",
+      "linkedin": "usman-ali-508a94137",
+      "github": "muhammadosmanali"
+    },
+    {
+      "id": 5,
+      "imageName": "Faisalsayed10.jpg",
+      "name": "Faisal Sayed",
+      "role": "Web Developer",
+      "about": "Hi! My name is Faisal. I'm a web developer especially Front-end Dev.",
+      "funfact": "Basically anything that melts can be made into glass!",
+      "twitter": "faisalsayed05",
+      "facebook": "",
+      "linkedin": "",
+      "github": "faisalsayed10"
+    },
+    {
+      "id": 6,
+      "imageName": "nikhilswain.jpg",
+      "name": "Nikhil Kumar Swain",
+      "role": "Web Developer",
+      "about": "Hi! My name is Nikhil. I'm a web developer , not so experienced in Backend as compared to Frontend.",
+      "funfact": "Basically anything that melts can be made into glass!",
+      "twitter": "faisalsayed05",
+      "facebook": "",
+      "linkedin": "",
+      "github": "faisalsayed10"
+    },
+    {
+      "id": 7,
+      "imageName": "TechLead-21.png",
+      "name": "Jayesh Tembhekar",
+      "role": "Frontend Developer",
+      "about": "Hello world!! this is Jayesh, a passionate web developer from India, a Data Science enthusiats too.",
+      "funfact": "A debuggers don't remove bugs, they only show them in slow motion.",
+      "twitter": "jayeshintech",
+      "facebook": "Jayesh Tembhekar",
+      "linkedin": "jayeshintech",
+      "github": "TechLead-21"
+    },
+    {
+      "id": 17,
+      "imageName": "karn.png",
+      "name": "Karan Maurya",
+      "role": "Full Stack Developer",
+      "about": "I am Karan Maurya, a React+Django Full Stack Developer from India.",
+      "funfact": "Basically anything that melts can be made into glass!",
+      "twitter": "_Karan21",
+      "facebook": "",
+      "linkedin": "karn21",
+      "github": "karn21"
+    },
+    {
+      "id": 42,
+      "imageName": "my_git_avatar.jpg",
+      "name": "Mel-louie",
+      "role": "Computer Programming Student",
+      "about": "Hi! I'm Mel-louie and I learn computer programming from France.",
+      "funfact": "Giant pandas may be raccoons",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+      "github": "Mel-louie"
+    },
+    {
+      "id": 99,
+      "imageName": "my_git_avatar.jpg",
+      "name": "Mel-louie",
+      "role": "Computer Programming Student",
+      "about": "Hi! I'm Mel-louie and I learn computer programming from France.",
+      "funfact": "Giant pandas may be raccoons",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+      "github": "Mel-louie"
+    },
+	{
+	  "id": 110,
+	  "imageName": "SushilBajracharya.png",
+	  "name": "Sushil Bajracharya",
+	  "role": "React Developer",
+	  "about": "Heyo! I am Sushil Bajracharya from Nepal. I am a react developer and I also love game development",
+	  "funfact": "Adding your age with your date of birth gives you the current year.",
+	  "twitter": "",
+	  "facebook": "",
+	  "linkedin": "",
+	  "github": "SushilBajracharya01"
+	},
+
+  {
+      "id": 123,
+      "imageName": "ahthserhsluk.jpeg",
+      "name": "Ahthserhsluk",
+      "about": "love doing competitive programming",
+      "funfact": "Giant pandas may be raccoons",
+      "twitter": "ahtherhsluk",
+      "facebook": "ahtherhsluk",
+      "linkedin": "ahtherhsluk",
+      "github": "ahtherhsluk"
+    },
+    {
+      "id": 199,
+      "imageName": "rojasjuniore.jpeg",
+      "name": "Junior-Rojas",
+      "role": "casi nerd ???????, casi pelado???????, casi fit ?????? ",
+      "about": "do-programming-like-movies-and-sports.com",
+      "funfact": "Giant pandas may be raccoons",
+      "twitter": "rojasjuniore",
+      "facebook": "rojasjuniore",
+      "linkedin": "rojasjuniore",
+      "github": "rojasjuniore"
+    },
+    {
+      "id": 24,
+      "imageName": "WonderWomen.png",
+      "name": "Khusboo",
+      "role": "A codeNewbie",
+      "about": "I love to learn things by making them",
+      "funfact": "Scotland has 421 words for “snow”",
+      "twitter": "Khusboo-Bothra",
+      "facebook": " ",
+      "linkedin": "Khusboo Bothra",
+      "github": "Khusboo Bothra"
+    },
+    {
+      "id": 13,
+      "imageName": "Wall.jpg",
+      "name": "adarsh046",
+      "role": "Unreal Engine Dev",
+      "about": "Make games",
+      "funfact": "Goosebumps are meant to ward off predators.",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+      "github": "github.com/adarsh046"
+    },
+    {
+      "id": 69,
+      "imageName": "anwareset.png",
+      "name": "Muhammad Tri Anwarruddin",
+      "role": "Linux System Engineer - Network Administrator - Web BackEnd Developer",
+      "about": "Im a GNU/Linux Enthusiast",
+      "funfact": "Big and Fat",
+      "twitter": "trianwar101",
+      "facebook": "",
+      "linkedin": "trianwar",
+      "github": "anwareset"
+    },
+    {
+      "id": 100,
+      "imageName": "leom.jpeg",
+      "name": "Ayodele-Leom",
+      "role": "Community Developer, Wordpress and Frontend Developer",
+      "about": "A lover of nature, good food and peaceful living",
+      "funfact": "Eat all you can because nothing dey this life",
+      "twitter": "leomofthings",
+      "facebook": "",
+      "linkedin": "aransiolaayo",
+      "github": "CodeLeom"
+    },
+    {
+      "id": 101,
+      "imageName": "isah.jpeg",
+      "name": "Audu isah",
+      "role": "flutter and andriod developer",
+      "about": "just a cool person",
+      "funfact": "love learning new things",
+      "twitter": "iprince_isah",
+      "facebook": "",
+      "linkedin": "audu isah",
+      "github": "princeisah"
+    },
+     {
+      "id":5,
+      "imageName":"hello.png",
+      "name":"Kartik kumar",
+      "role":"Open source contributor",
+      "about":"Hello, my name is Kartik.",
+      "funfact":"I'm following the people instead of using my brain",
+      "twitter":"final_jpeg",
+      "facebook":"",
+      "linkedin":"",
+      "github":"iamKaartik"
+    },
+{
+      "id": 1000,
+      "imageName": "avatar.png",
+      "name": "Leon Prasetya",
+      "role": "Full Stack Web Dev",
+      "about": "Love code",
+      "funfact": "Chiken",
+      "twitter": "ledleledle",
+      "facebook": "ledleledle",
+      "linkedin": "ledleledle",
+      "github": "ledleledle"
+    },
+    {
+      "id": 98,
+      "imageName": "jvargas98.jpeg",
+      "name": "Jorge Vargas",
+      "role": "Software Engineer, Web Developer",
+      "about": "I'm Vargas, a web developer from Mexico <3",
+      "funfact": "May the Force be with you",
+      "twitter": "jvargas_98",
+      "facebook": "",
+      "linkedin": "jvargas98",
+      "github": "jvargas98"
+    },
+    {
+      "id": 99,
+      "imageName": "ryan.jpg",
+      "name": "Ryan Parrangan",
+      "role": "Front End Web Developer",
+      "about": "I'm Ryan, i am front end web developer from Indonesia :)",
+      "funfact": "I love learning about Programming :)",
+      "twitter": "ryanparrangan",
+      "facebook": "",
+      "linkedin": "Ryan Parrangan",
+      "github": "ryan-parrangan"
     }
   ]
 }
