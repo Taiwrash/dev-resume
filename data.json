@@ -349,6 +349,7 @@
     },
     {
 
+
       "id": 7110,
       "imageName": "Greg7110.png",
       "name": "Grégory Helbin",
@@ -361,6 +362,19 @@
       "github": "Greg7110"
 
 
+
+      "id": 99,
+      "imageName": "ryan.jpg",
+      "name": "Ryan Parrangan",
+      "role": "Front End Web Developer",
+      "about": "I'm Ryan, i am front end web developer from Indonesia :)",
+      "funfact": "I love learning about Programming :)",
+      "twitter": "ryanparrangan",
+      "facebook": "",
+      "linkedin": "Ryan Parrangan",
+      "github": "ryan-parrangan"
+
+
       "id": 999,
       "imageName": "girlie.jpg",
       "name": "Amruta Kar",
@@ -371,6 +385,7 @@
       "facebook": "don't have",
       "linkedin": "dont'have",
       "github": "https://github.com/Amruta0509"
+
 
 
       "id": 12,
