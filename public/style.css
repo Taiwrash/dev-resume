@@ -217,35 +217,6 @@ footer {
   color: #ffffff;
   background: linear-gradient(45deg, rgb(95, 92, 117), rgb(59, 62, 65));
 }
-=======
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-
-main {
-  width: 100vw;
-  /* height: 100vh; */
-}
-
-.header {
-  width: 100%;
-  height: 500px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: #302d3a;
-  flex-direction: column;
-}
-
-.inner-header {
-  margin-top: 10%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
 
 .logo img {
   width: 50px;
