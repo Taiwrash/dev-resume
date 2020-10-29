@@ -360,6 +360,17 @@
       "github": "jvargas98"
     },
     {
+
+      "id": 50,
+      "imageName": "bhairavi-shah.jpg",
+      "name": "Bhairavi Shah",
+      "role": "Software Engineer",
+      "about": "I'm from Kochi Kerala",
+      "funfact": "My Portfolio Website: https://bhairavi-shah.github.io/",
+      "twitter": "shahbhairavi",
+      "facebook": "",
+      "linkedin": "bhairavi-shah",
+      "github": "Bhairavi-shah"},{
       "id": 99,
       "imageName": "woman.png",
       "name": "Sweta Swagatika",
@@ -369,7 +380,7 @@
       "twitter": "don't have",
       "facebook": "don't have",
       "linkedin": "https://www.linkedin.com/in/sweta-swagatika-906377154/",
-      "github": "https://github.com/Sweta271097"
+      "github": "https://github.com/Sweta271097"},{
 
 
 
