@@ -1,6 +1,6 @@
 {
   "details": [
-     {
+    {
       "id": 1,
       "imageName": "jatinsaini137.jpg",
       "name": "Jatin Saini",
@@ -48,7 +48,7 @@
       "linkedin": "rasheedtaiwo",
       "github": "rasheedtaiwo"
     },
-	      {
+    {
       "id": 1,
       "imageName": "",
       "name": "situ Rahmah",
@@ -72,6 +72,7 @@
       "linkedin": "",
       "github": "rahmah18"
     },
+    {
       "id": 2,
       "imageName": "airondev.jpg",
       "name": "Aaron, Aniebiet B.",
@@ -155,7 +156,7 @@
       "linkedin": "usman-ali-508a94137",
       "github": "muhammadosmanali"
     },
-	{
+    {
       "id": 53,
       "imageName": "hi.png",
       "name": "Fonta",
@@ -240,7 +241,6 @@
       "github": "Mel-louie"
     },
     {
-
       "id": 420,
       "imageName": "Self.jpg",
       "name": "Chhaganlaal",
@@ -253,7 +253,6 @@
       "github": "Chhaganlaal"
     },
     {
-      "id": 99,
       "id": 110,
       "imageName": "SushilBajracharya.png",
       "name": "Sushil Bajracharya",
@@ -265,7 +264,6 @@
       "linkedin": "",
       "github": "SushilBajracharya01"
     },
-
     {
       "id": 123,
       "imageName": "ahthserhsluk.jpeg",
@@ -279,7 +277,6 @@
     },
     {
       "id": 199,
-
       "imageName": "rojasjuniore.jpeg",
       "name": "Junior-Rojas",
       "role": "casi nerd ???????, casi pelado???????, casi fit ?????? ",
@@ -291,7 +288,6 @@
       "github": "rojasjuniore"
     },
     {
-
       "id": 20,
       "imageName": "charley.jpg",
       "name": "Williams Charles",
@@ -302,8 +298,8 @@
       "facebook": "charleyvbez",
       "linkedin": "charleyvibez",
       "github": "charleyvibez"
-
-
+    },
+    {
       "id": 24,
       "imageName": "aditya_A.jpg",
       "name": "Aditya Anand",
@@ -314,7 +310,8 @@
       "facebook": "Aditya Anand",
       "linkedin": "Aditya Anand",
       "github": "Aditya Anand"
-
+    },
+    {
       "id": 69,
       "imageName": "JackTDC.jpg",
       "name": "JackTDC",
@@ -324,9 +321,9 @@
       "twitter": "",
       "facebook": "",
       "linkedin": "",
- "github": "JackTDC"
-
-
+      "github": "JackTDC"
+    },
+    {
       "id": 100,
       "imageName": "sri.png",
       "name": "Sri",
@@ -337,7 +334,8 @@
       "facebook": "",
       "linkedin": "",
       "github": "srivickynesh"
-
+    },
+    {
       "id": 24,
       "imageName": "WonderWomen.png",
       "name": "Khusboo",
@@ -422,18 +420,18 @@
       "github": "ledleledle"
     },
     {
-
-      "id":5,
-      "imageName":"ANormalStick.png",
-      "name":"Jānis Īvāns",
-      "role":"Open source contributor",
-      "about":"I'm learning programming!",
-      "funfact":"Brain, the first PC virus, began infecting 5.2 floppy disks in 1986.",
-      "twitter":"",
-      "facebook":"",
-      "linkedin":"",
-      "github":"ANormalStick"
-
+      "id": 5,
+      "imageName": "ANormalStick.png",
+      "name": "Jānis Īvāns",
+      "role": "Open source contributor",
+      "about": "I'm learning programming!",
+      "funfact": "Brain, the first PC virus, began infecting 5.2 floppy disks in 1986.",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+      "github": "ANormalStick"
+    },
+    {
       "id": 98,
       "imageName": "jvargas98.jpeg",
       "name": "Jorge Vargas",
@@ -446,7 +444,6 @@
       "github": "jvargas98"
     },
     {
-
       "id": 50,
       "imageName": "bhairavi-shah.jpg",
       "name": "Bhairavi Shah",
@@ -456,7 +453,9 @@
       "twitter": "shahbhairavi",
       "facebook": "",
       "linkedin": "bhairavi-shah",
-      "github": "Bhairavi-shah"},{
+      "github": "Bhairavi-shah"
+    },
+    {
       "id": 99,
       "imageName": "woman.png",
       "name": "Sweta Swagatika",
@@ -466,10 +465,9 @@
       "twitter": "don't have",
       "facebook": "don't have",
       "linkedin": "https://www.linkedin.com/in/sweta-swagatika-906377154/",
-      "github": "https://github.com/Sweta271097"},{
-
-
-
+      "github": "https://github.com/Sweta271097"
+    },
+    {
       "id": 7110,
       "imageName": "Greg7110.png",
       "name": "Grégory Helbin",
@@ -480,9 +478,8 @@
       "facebook": "",
       "linkedin": "Grégory Helbin",
       "github": "Greg7110"
-
-
-
+    },
+    {
       "id": 99,
       "imageName": "ryan.jpg",
       "name": "Ryan Parrangan",
@@ -493,8 +490,8 @@
       "facebook": "",
       "linkedin": "Ryan Parrangan",
       "github": "ryan-parrangan"
-
-
+    },
+    {
       "id": 999,
       "imageName": "girlie.jpg",
       "name": "Amruta Kar",
@@ -505,20 +502,20 @@
       "facebook": "don't have",
       "linkedin": "dont'have",
       "github": "https://github.com/Amruta0509"
-
-
-
+    },
+    {
       "id": 12,
-      "imageName":"rizkypakpahan.jpg",
+      "imageName": "rizkypakpahan.jpg",
       "name": "Rizky Kurniawan Pakpahan",
       "role": "Student & Technical Support",
       "about": "Hello guys, I'm Rizky beginner learn computer programming from Indonesia",
       "funfact": "i wont to be a full stack developer",
-      "twitter":"",
-      "facebook":"riskykurniawan.pakpahan",
-      "linkedin":"rizky-kurniawan-pakpahan-678a82167",
-      "github":"rizkypakpahan"
-
+      "twitter": "",
+      "facebook": "riskykurniawan.pakpahan",
+      "linkedin": "rizky-kurniawan-pakpahan-678a82167",
+      "github": "rizkypakpahan"
+    },
+    {
       "id": 522,
       "imageName": "callanbr.png",
       "name": "Chris Allan",
@@ -529,8 +526,8 @@
       "facebook": "",
       "linkedin": "callanbr",
       "github": "callanbr"
-
-
+    },
+    {
       "id": 1111,
       "imageName": "kkritii.jpg",
       "name": "Kriti Prajapati",
@@ -540,9 +537,9 @@
       "twitter": "kritiprajapati_",
       "facebook": "kriti.prajapati01",
       "linkedin": "prajapatikriti",
-      "github": "kkritii",}
+      "github": "kkritii",
+    },
     {
-
       "id": 143,
       "imageName": "sam.jpg",
       "name": "Sam Pai",
@@ -553,9 +550,8 @@
       "facebook": "",
       "linkedin": "",
       "github": "SamuelPai"
-{
-
-
+    },
+    {
       "id": 2701,
       "imageName": "coldCoffeeMug.jpg",
       "name": "coldCoffeeDev",
@@ -566,6 +562,8 @@
       "facebook": "",
       "linkedin": "",
       "github": "coldCoffeeDev"
+    },
+    {
       "id": 491,
       "imageName": "rootz491.jpg",
       "name": "karan sharma",
@@ -588,26 +586,31 @@
       "facebook": "prantoran",
       "linkedin": "prantoran",
       "github": "prantoran"
-
-
-
-
-
+    },
+    {
+      "id": 5,
+      "imageName": "Untitled.png",
+      "name": "Kartik kumar",
+      "role": "Open source contributor",
+      "about": "Hello, my name is Kartik.",
+      "funfact": "I'm following the people instead of using my brain",
+      "twitter": "final_jpeg",
+      "facebook": "",
+      "linkedin": "",
+      "github": "iamKaartik"
+    },
+    {
+      "id": 5,
+      "imageName": "alexmayol.png",
+      "name": "Alejandro Mayol",
+      "role": "Open source contributor",
+      "about": "I'm Alex and OOS is awesome!",
+      "funfact": "All facts are fun, depending on the point of view.",
+      "twitter": "alex_mayol_",
+      "facebook": "",
+      "linkedin": "https://www.linkedin.com/in/alejandro-mayol-carrion/",
+      "github": "AlexMayol"
     }
-      {
-      "id":5,
-      "imageName":"Untitled.png",
-      "name":"Kartik kumar",
-      "role":"Open source contributor",
-      "about":"Hello, my name is Kartik.",
-      "funfact":"I'm following the people instead of using my brain",
-      "twitter":"final_jpeg",
-      "facebook":"",
-      "linkedin":"",
-      "github":"iamKaartik"
 
-
-
-    }
   ]
 }
