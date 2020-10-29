@@ -350,6 +350,19 @@
     {
 
 
+      "id": 7110,
+      "imageName": "Greg7110.png",
+      "name": "Grégory Helbin",
+      "role": "Software Developer, Web Developer",
+      "about": "I work in Belgium at the UMONS, much more than a university",
+      "funfact": "Dev Low Peur!",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "Grégory Helbin",
+      "github": "Greg7110"
+
+
+
       "id": 99,
       "imageName": "ryan.jpg",
       "name": "Ryan Parrangan",
@@ -360,6 +373,7 @@
       "facebook": "",
       "linkedin": "Ryan Parrangan",
       "github": "ryan-parrangan"
+
 
       "id": 999,
       "imageName": "girlie.jpg",
@@ -454,6 +468,7 @@
       "facebook": "prantoran",
       "linkedin": "prantoran",
       "github": "prantoran"
+
 
 
 
