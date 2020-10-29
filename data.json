@@ -313,6 +313,7 @@
       "github": "jvargas98"
     },
     {
+
       "id": 2701,
       "imageName": "coldCoffeeMug.jpg",
       "name": "coldCoffeeDev",
@@ -323,6 +324,29 @@
       "facebook": "",
       "linkedin": "",
       "github": "coldCoffeeDev"
+      "id": 491,
+      "imageName": "rootz491.jpg",
+      "name": "karan sharma",
+      "role": "Web Developer",
+      "about": "I'm a compSci stduent, self-taught web-dev from India",
+      "funfact": "one day, i'll be a great dev.",
+      "twitter": "karansh491",
+      "facebook": "",
+      "linkedin": "",
+      "github": "rootz491"
+    },
+    {
+      "id": 492,
+      "imageName": "prantoran.png",
+      "name": "Pinku Deb Nath",
+      "role": "Inventor",
+      "about": "I'm a graduate student from Bangladesh",
+      "funfact": "I love biriyani.",
+      "twitter": "prantoran",
+      "facebook": "prantoran",
+      "linkedin": "prantoran",
+      "github": "prantoran"
+
     }
   ]
 }
