@@ -349,6 +349,7 @@
     },
     {
 
+
       "id": 99,
       "imageName": "ryan.jpg",
       "name": "Ryan Parrangan",
@@ -359,6 +360,18 @@
       "facebook": "",
       "linkedin": "Ryan Parrangan",
       "github": "ryan-parrangan"
+
+      "id": 999,
+      "imageName": "girlie.jpg",
+      "name": "Amruta Kar",
+      "role": "Coding Enthusiast",
+      "about": "I'm Amruta, a codegeek from India",
+      "funfact": "I spread only joy",
+      "twitter": "don't have",
+      "facebook": "don't have",
+      "linkedin": "dont'have",
+      "github": "https://github.com/Amruta0509"
+
 
 
       "id": 12,
