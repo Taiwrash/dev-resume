@@ -323,6 +323,18 @@
       "facebook": "",
       "linkedin": "",
       "github": "rootz491"
+    },
+    {
+      "id": 492,
+      "imageName": "prantoran.png",
+      "name": "Pinku Deb Nath",
+      "role": "Inventor",
+      "about": "I'm a graduate student from Bangladesh",
+      "funfact": "I love biriyani.",
+      "twitter": "prantoran",
+      "facebook": "prantoran",
+      "linkedin": "prantoran",
+      "github": "prantoran"
     }
   ]
 }
