@@ -228,15 +228,25 @@
       "github": "Mel-louie"
     },
     {
+
+      "id": 42,
+      "imageName": "param.png",
+      "name": "Paramvir Singh",
+      "role": "Computer Science Student",
+      "about": "Hey. Full stack web developer from India",
+
       "id": 99,
       "imageName": "my_git_avatar.jpg",
       "name": "Mel-louie",
       "role": "Computer Programming Student",
       "about": "Hi! I'm Mel-louie and I learn computer programming from France.",
+
       "funfact": "Giant pandas may be raccoons",
       "twitter": "",
       "facebook": "",
       "linkedin": "",
+
+      "github": "Paramvir109"
       "github": "Mel-louie"
     },
     {
