@@ -1,5 +1,29 @@
 {
   "details": [
+     {
+      "id": 1,
+      "imageName": "jatinsaini137.jpg",
+      "name": "Jatin Saini",
+      "role": "Web Developer , Beckend Developer",
+      "about": "I am Jatin Saini I love coding and as well impacting people around me. Community building is one of my interest ",
+      "funfact": "Flaws require more concentration than Success",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "jatin-saini",
+      "github": "jatinsaini137"
+    },
+    {
+      "id": 2,
+      "imageName": "isah.jpeg",
+      "name": "isah price",
+      "role": "mobile flutter developrt ",
+      "about": "easy going person",
+      "funfact": "reading,learning new things",
+      "twitter": "iprince_isah",
+      "facebook": "",
+      "linkedin": "audu isah",
+      "github": "princeisah"
+    },
     {
       "id": 1,
       "imageName": "rasheeed.png",
@@ -24,7 +48,30 @@
       "linkedin": "rasheedtaiwo",
       "github": "rasheedtaiwo"
     },
+	      {
+      "id": 1,
+      "imageName": "",
+      "name": "situ Rahmah",
+      "role": "Frontend Developer",
+      "about": "I am rahmatullah I love coding and as well impacting people around me. Community building is one of my interest and I am a computer science student. I love JavaScript that is why I write Javascript and C++.",
+      "funfact": "Flaws require more concentration than Success",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+      "github": "rahmah18"
+    },
     {
+      "id": 1,
+      "imageName": "beststyle.png",
+      "name": "situ ramotalahi",
+      "role": "python Developer",
+      "about": "I am Rahma I love coding and as well impacting people around me. Community building is one of my interest and I am a computer science student. I love JavaScript that is why I write Javascript and C++.",
+      "funfact": "Flaws require more concentration than Success",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+      "github": "rahmah18"
+    },
       "id": 2,
       "imageName": "airondev.jpg",
       "name": "Aaron, Aniebiet B.",
@@ -85,6 +132,18 @@
       "github": "mzaini30"
     },
     {
+      "id": 22,
+      "imageName": "mrtampangit.jpg",
+      "name": "Mrtampan",
+      "role": "Blogging in puppetkode",
+      "about": "Hi! My name is Mrtampan. I'm working at Nakeda, I like blogging and sharing knowledge",
+      "funfact": "I love Javascript (And Vue!)",
+      "twitter": "",
+      "facebook": "Achmad rivaldi",
+      "linkedin": "",
+      "github": "mrtampan"
+    },
+    {
       "id": 21,
       "imageName": "usman.png",
       "name": "Muhammad Usman Ali",
@@ -95,6 +154,18 @@
       "facebook": "usmanali",
       "linkedin": "usman-ali-508a94137",
       "github": "muhammadosmanali"
+    },
+	{
+      "id": 53,
+      "imageName": "hi.png",
+      "name": "Fonta",
+      "role": "Backend Developer",
+      "about": "I love programming",
+      "funfact": "The circumference of the Earth at the equator is 25,000 miles!",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+      "github": "Fonta22"
     },
     {
       "id": 5,
@@ -157,7 +228,7 @@
       "github": "Mel-louie"
     },
     {
-      "id": 42,
+      "id": 99,
       "imageName": "my_git_avatar.jpg",
       "name": "Mel-louie",
       "role": "Computer Programming Student",
@@ -169,10 +240,34 @@
       "github": "Mel-louie"
     },
     {
-      "id": 99,
+      "id": 110,
+      "imageName": "SushilBajracharya.png",
+      "name": "Sushil Bajracharya",
+      "role": "React Developer",
+      "about": "Heyo! I am Sushil Bajracharya from Nepal. I am a react developer and I also love game development",
+      "funfact": "Adding your age with your date of birth gives you the current year.",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+      "github": "SushilBajracharya01"
+    },
+
+    {
+      "id": 123,
+      "imageName": "ahthserhsluk.jpeg",
+      "name": "Ahthserhsluk",
+      "about": "love doing competitive programming",
+      "funfact": "Giant pandas may be raccoons",
+      "twitter": "ahtherhsluk",
+      "facebook": "ahtherhsluk",
+      "linkedin": "ahtherhsluk",
+      "github": "ahtherhsluk"
+    },
+    {
+      "id": 199,
       "imageName": "rojasjuniore.jpeg",
       "name": "Junior-Rojas",
-      "role": "casi nerd 👨🏻‍💻, casi pelado👩🏻‍🦲, casi fit 🏋🏻‍♀ ",
+      "role": "casi nerd ???????, casi pelado???????, casi fit ?????? ",
       "about": "do-programming-like-movies-and-sports.com",
       "funfact": "Giant pandas may be raccoons",
       "twitter": "rojasjuniore",
@@ -181,6 +276,7 @@
       "github": "rojasjuniore"
     },
     {
+
       "id": 69,
       "imageName": "JackTDC.jpg",
       "name": "JackTDC",
@@ -190,7 +286,288 @@
       "twitter": "",
       "facebook": "",
       "linkedin": "",
-      "github": "JackTDC"
+ "github": "JackTDC"
+
+      "id": 100,
+      "imageName": "sri.png",
+      "name": "Sri",
+      "role": "software developer",
+      "about": "Full time employee and part time games and loves photography",
+      "funfact": "Giant pandas may be raccoons",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+      "github": "srivickynesh"
+
+      "id": 24,
+      "imageName": "WonderWomen.png",
+      "name": "Khusboo",
+      "role": "A codeNewbie",
+      "about": "I love to learn things by making them",
+      "funfact": "Scotland has 421 words for “snow”",
+      "twitter": "Khusboo-Bothra",
+      "facebook": " ",
+      "linkedin": "Khusboo Bothra",
+      "github": "Khusboo Bothra"
+    },
+    {
+      "id": 13,
+      "imageName": "Wall.jpg",
+      "name": "adarsh046",
+      "role": "Unreal Engine Dev",
+      "about": "Make games",
+      "funfact": "Goosebumps are meant to ward off predators.",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+      "github": "github.com/adarsh046"
+    },
+    {
+      "id": 69,
+      "imageName": "anwareset.png",
+      "name": "Muhammad Tri Anwarruddin",
+      "role": "Linux System Engineer - Network Administrator - Web BackEnd Developer",
+      "about": "Im a GNU/Linux Enthusiast",
+      "funfact": "Big and Fat",
+      "twitter": "trianwar101",
+      "facebook": "",
+      "linkedin": "trianwar",
+      "github": "anwareset"
+    },
+    {
+      "id": 100,
+      "imageName": "leom.jpeg",
+      "name": "Ayodele-Leom",
+      "role": "Community Developer, Wordpress and Frontend Developer",
+      "about": "A lover of nature, good food and peaceful living",
+      "funfact": "Eat all you can because nothing dey this life",
+      "twitter": "leomofthings",
+      "facebook": "",
+      "linkedin": "aransiolaayo",
+      "github": "CodeLeom"
+    },
+    {
+      "id": 101,
+      "imageName": "isah.jpeg",
+      "name": "Audu isah",
+      "role": "flutter and andriod developer",
+      "about": "just a cool person",
+      "funfact": "love learning new things",
+      "twitter": "iprince_isah",
+      "facebook": "",
+      "linkedin": "audu isah",
+      "github": "princeisah"
+    },
+    {
+      "id": 5,
+      "imageName": "hello.png",
+      "name": "Kartik kumar",
+      "role": "Open source contributor",
+      "about": "Hello, my name is Kartik.",
+      "funfact": "I'm following the people instead of using my brain",
+      "twitter": "final_jpeg",
+      "facebook": "",
+      "linkedin": "",
+      "github": "iamKaartik"
+    },
+    {
+      "id": 1000,
+      "imageName": "avatar.png",
+      "name": "Leon Prasetya",
+      "role": "Full Stack Web Dev",
+      "about": "Love code",
+      "funfact": "Chiken",
+      "twitter": "ledleledle",
+      "facebook": "ledleledle",
+      "linkedin": "ledleledle",
+      "github": "ledleledle"
+    },
+    {
+
+      "id":5,
+      "imageName":"ANormalStick.png",
+      "name":"Jānis Īvāns",
+      "role":"Open source contributor",
+      "about":"I'm learning programming!",
+      "funfact":"Brain, the first PC virus, began infecting 5.2 floppy disks in 1986.",
+      "twitter":"",
+      "facebook":"",
+      "linkedin":"",
+      "github":"ANormalStick"
+
+      "id": 98,
+      "imageName": "jvargas98.jpeg",
+      "name": "Jorge Vargas",
+      "role": "Software Engineer, Web Developer",
+      "about": "I'm Vargas, a web developer from Mexico <3",
+      "funfact": "May the Force be with you",
+      "twitter": "jvargas_98",
+      "facebook": "",
+      "linkedin": "jvargas98",
+      "github": "jvargas98"
+    },
+    {
+
+      "id": 50,
+      "imageName": "bhairavi-shah.jpg",
+      "name": "Bhairavi Shah",
+      "role": "Software Engineer",
+      "about": "I'm from Kochi Kerala",
+      "funfact": "My Portfolio Website: https://bhairavi-shah.github.io/",
+      "twitter": "shahbhairavi",
+      "facebook": "",
+      "linkedin": "bhairavi-shah",
+      "github": "Bhairavi-shah"},{
+      "id": 99,
+      "imageName": "woman.png",
+      "name": "Sweta Swagatika",
+      "role": "Software Engineer, Web Developer",
+      "about": "I'm Sweta, a web developer from India",
+      "funfact": "Wanted to be a painter, ended up being a developer",
+      "twitter": "don't have",
+      "facebook": "don't have",
+      "linkedin": "https://www.linkedin.com/in/sweta-swagatika-906377154/",
+      "github": "https://github.com/Sweta271097"},{
+
+
+
+      "id": 7110,
+      "imageName": "Greg7110.png",
+      "name": "Grégory Helbin",
+      "role": "Software Developer, Web Developer",
+      "about": "I work in Belgium at the UMONS, much more than a university",
+      "funfact": "Dev Low Peur!",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "Grégory Helbin",
+      "github": "Greg7110"
+
+
+
+      "id": 99,
+      "imageName": "ryan.jpg",
+      "name": "Ryan Parrangan",
+      "role": "Front End Web Developer",
+      "about": "I'm Ryan, i am front end web developer from Indonesia :)",
+      "funfact": "I love learning about Programming :)",
+      "twitter": "ryanparrangan",
+      "facebook": "",
+      "linkedin": "Ryan Parrangan",
+      "github": "ryan-parrangan"
+
+
+      "id": 999,
+      "imageName": "girlie.jpg",
+      "name": "Amruta Kar",
+      "role": "Coding Enthusiast",
+      "about": "I'm Amruta, a codegeek from India",
+      "funfact": "I spread only joy",
+      "twitter": "don't have",
+      "facebook": "don't have",
+      "linkedin": "dont'have",
+      "github": "https://github.com/Amruta0509"
+
+
+
+      "id": 12,
+      "imageName":"rizkypakpahan.jpg",
+      "name": "Rizky Kurniawan Pakpahan",
+      "role": "Student & Technical Support",
+      "about": "Hello guys, I'm Rizky beginner learn computer programming from Indonesia",
+      "funfact": "i wont to be a full stack developer",
+      "twitter":"",
+      "facebook":"riskykurniawan.pakpahan",
+      "linkedin":"rizky-kurniawan-pakpahan-678a82167",
+      "github":"rizkypakpahan"
+
+      "id": 522,
+      "imageName": "callanbr.png",
+      "name": "Chris Allan",
+      "role": "Software Engineer, Web Developer",
+      "about": "I spend my time teaching code and developing projects I have a passion for.",
+      "funfact": "I am Software Engineer with OCD.",
+      "twitter": "Chrisallanb",
+      "facebook": "",
+      "linkedin": "callanbr",
+      "github": "callanbr"
+
+
+      "id": 1111,
+      "imageName": "kkritii.jpg",
+      "name": "Kriti Prajapati",
+      "role": "Software Developer",
+      "about": "I am Kriti Prajapati from Nepal. I love coding. I am passionate web developer and an AI Enthusiast too.",
+      "funfact": "15 minutes of laughter equals to 2 hours sleep.",
+      "twitter": "kritiprajapati_",
+      "facebook": "kriti.prajapati01",
+      "linkedin": "prajapatikriti",
+      "github": "kkritii",}
+    {
+
+      "id": 143,
+      "imageName": "sam.jpg",
+      "name": "Sam Pai",
+      "role": "Full Stack Web Developer",
+      "about": "A computer science student and aspiring Software Engineer!",
+      "funfact": "I have a YouTube video with over 6 millions views.",
+      "twitter": "PaiMoney310",
+      "facebook": "",
+      "linkedin": "",
+      "github": "SamuelPai"
+{
+
+
+      "id": 2701,
+      "imageName": "coldCoffeeMug.jpg",
+      "name": "coldCoffeeDev",
+      "role": "Project Manager, Testing",
+      "about": "Hi, I'm working for a large Cooperation in Europe in many roles",
+      "funfact": "I'm drinkint hot coffee most of the time",
+      "twitter": "coldCoffeeDev",
+      "facebook": "",
+      "linkedin": "",
+      "github": "coldCoffeeDev"
+      "id": 491,
+      "imageName": "rootz491.jpg",
+      "name": "karan sharma",
+      "role": "Web Developer",
+      "about": "I'm a compSci stduent, self-taught web-dev from India",
+      "funfact": "one day, i'll be a great dev.",
+      "twitter": "karansh491",
+      "facebook": "",
+      "linkedin": "",
+      "github": "rootz491"
+    },
+    {
+      "id": 492,
+      "imageName": "prantoran.png",
+      "name": "Pinku Deb Nath",
+      "role": "Inventor",
+      "about": "I'm a graduate student from Bangladesh",
+      "funfact": "I love biriyani.",
+      "twitter": "prantoran",
+      "facebook": "prantoran",
+      "linkedin": "prantoran",
+      "github": "prantoran"
+
+
+
+
+
+    }
+      {
+      "id":5,
+      "imageName":"Untitled.png",
+      "name":"Kartik kumar",
+      "role":"Open source contributor",
+      "about":"Hello, my name is Kartik.",
+      "funfact":"I'm following the people instead of using my brain",
+      "twitter":"final_jpeg",
+      "facebook":"",
+      "linkedin":"",
+      "github":"iamKaartik"
+
+
     }
   ]
 }
