@@ -229,15 +229,25 @@
       "github": "Mel-louie"
     },
     {
+
+      "id": 42,
+      "imageName": "param.png",
+      "name": "Paramvir Singh",
+      "role": "Computer Science Student",
+      "about": "Hey. Full stack web developer from India",
+
       "id": 99,
       "imageName": "my_git_avatar.jpg",
       "name": "Mel-louie",
       "role": "Computer Programming Student",
       "about": "Hi! I'm Mel-louie and I learn computer programming from France.",
+
       "funfact": "Giant pandas may be raccoons",
       "twitter": "",
       "facebook": "",
       "linkedin": "",
+
+      "github": "Paramvir109"
       "github": "Mel-louie"
     },
     {
@@ -288,6 +298,23 @@
       "github": "rojasjuniore"
     },
     {
+
+
+
+      "id": 101,
+      "imageName": "Kshitij.png",
+      "name": "Kshitij Singh",
+      "role": "I'm Kshitij Singh, a Full Stack Dev & Product Engineer ",
+      "about": "As a software engineer, i look forward to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. ",
+      "funfact": "AI is not human yet.",
+      "twitter": "ikshitijsingh",
+      "facebook": "kshitijsingh",
+      "linkedin": "ikshitijsingh",
+      "github": "singhkshitij"
+    },
+
+
+
       "id": 20,
       "imageName": "charley.jpg",
       "name": "Williams Charles",
@@ -586,6 +613,7 @@
       "facebook": "prantoran",
       "linkedin": "prantoran",
       "github": "prantoran"
+
     },
     {
       "id": 5,
@@ -610,7 +638,29 @@
       "facebook": "",
       "linkedin": "https://www.linkedin.com/in/alejandro-mayol-carrion/",
       "github": "AlexMayol"
+
+
+
+    },
+	  {
+      "id": 493,
+      "imageName": "IMG_20190712_172013.jpg",
+      "name": "Onnys Anild Lopes Menete",
+      "role": "Programer",
+      "about": "I'm a mozanbican who loves to code",
+      "funfact": "I like assembly.",
+      "twitter": "OnnysMenete",
+      "facebook": "Onnys",
+      "linkedin": "OnnysMenete",
+      "github": "Onnys"
+
+
+
     }
+
+
+    }
+
 
   ]
 }
