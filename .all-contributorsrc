@@ -15,9 +15,99 @@
         "test",
         "code"
       ]
+
+    },
+    {
+      "login": "ddewzy",
+      "name": "ddewzy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/64855703?v=4",
+      "profile": "https://github.com/ddewzy",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    },
+    {
+      "login": "faisalsayed10",
+      "name": "fayd",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/36627266?v=4",
+      "profile": "http://fayd.me",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    },
+    {
+      "login": "muhammadosmanali",
+      "name": "Usman Ali",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/38491660?v=4",
+      "profile": "https://muhammadusmanali.codes/",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    },
+    {
+      "login": "u-mulder",
+      "name": "u_mulder",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1175728?v=4",
+      "profile": "http://www.u-mulder.com",
+      "contributions": [
+        "infra",
+        "test",
+        "code",
+        "docs"
+      ]
+    },
+    {
+      "login": "mzaini30",
+      "name": "Zen",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7939342?v=4",
+      "profile": "https://blogzen.js.org",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    },
+    {
+      "login": "PerezArturo",
+      "name": "Arturo Perez",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/8907080?v=4",
+      "profile": "http://perezarturo.github.io",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    },
+    {
+      "login": "nikhilswain",
+      "name": "Nikhil Kumar Swain",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/39958596?v=4",
+      "profile": "https://github.com/nikhilswain",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }{
+      "login": "przemekdolata96",
+      "name": "Przemek Dolata",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/26312462?s=400&u=45abc8c1a836c94fb8ac312950a6a901d6d9561f&v=4",
+      "profile": "https://github.com/przemekdolata96",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+
     }
   ],
-  "contributorsPerLine": 7,
+  "contributorsPerLine": 3,
   "projectName": "dev-resume",
   "projectOwner": "Taiwrash",
   "repoType": "github",
