@@ -276,6 +276,18 @@
       "github": "rojasjuniore"
     },
     {
+
+      "id": 100,
+      "imageName": "sri.png",
+      "name": "Sri",
+      "role": "software developer",
+      "about": "Full time employee and part time games and loves photography",
+      "funfact": "Giant pandas may be raccoons",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+      "github": "srivickynesh"
+
       "id": 24,
       "imageName": "WonderWomen.png",
       "name": "Khusboo",
@@ -543,6 +555,7 @@
       "facebook":"",
       "linkedin":"",
       "github":"iamKaartik"
+
     }
   ]
 }
