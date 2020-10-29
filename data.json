@@ -277,6 +277,7 @@
     },
     {
 
+
       "id": 24,
       "imageName": "aditya_A.jpg",
       "name": "Aditya Anand",
@@ -287,6 +288,18 @@
       "facebook": "Aditya Anand",
       "linkedin": "Aditya Anand",
       "github": "Aditya Anand"
+
+      "id": 69,
+      "imageName": "JackTDC.jpg",
+      "name": "JackTDC",
+      "role": "Computer Programmer",
+      "about": "Hello,My name is JackTDC and I am 15 years old",
+      "funfact": "The water you drink is 100% Dinosaur pee",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+ "github": "JackTDC"
+
 
       "id": 100,
       "imageName": "sri.png",
