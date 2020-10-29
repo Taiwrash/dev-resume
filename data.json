@@ -337,6 +337,17 @@
     },
     {
 
+      "id": 522,
+      "imageName": "callanbr.png",
+      "name": "Chris Allan",
+      "role": "Software Engineer, Web Developer",
+      "about": "I spend my time teaching code and developing projects I have a passion for.",
+      "funfact": "I am Software Engineer with OCD.",
+      "twitter": "Chrisallanb",
+      "facebook": "",
+      "linkedin": "callanbr",
+      "github": "callanbr"
+
 
       "id": 1111,
       "imageName": "kkritii.jpg",
@@ -395,6 +406,7 @@
       "facebook": "prantoran",
       "linkedin": "prantoran",
       "github": "prantoran"
+
 
 
     }
