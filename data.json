@@ -151,7 +151,7 @@
     },
     {
       "id": 13,
-      "imageName": "hi.png",
+      "imageName": "",
       "name": "Fonta",
       "role": "Backend Developer",
       "about": "I love programming",
@@ -427,7 +427,7 @@
     },
     {
       "id": 36,
-      "imageName": "ANormalStick.png",
+      "imageName": "",
       "name": "Jānis Īvāns",
       "role": "Open source contributor",
       "about": "I'm learning programming!",
@@ -559,7 +559,7 @@
     },
     {
       "id": 47,
-      "imageName": "coldCoffeeMug.jpg",
+      "imageName": "",
       "name": "coldCoffeeDev",
       "role": "Project Manager, Testing",
       "about": "Hi, I'm working for a large Cooperation in Europe in many roles",
