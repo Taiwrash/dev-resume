@@ -217,17 +217,7 @@ footer {
   color: #ffffff;
   background: linear-gradient(45deg, rgb(95, 92, 117), rgb(59, 62, 65));
 }
-=======
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-
-main {
-  width: 100vw;
-  /* height: 100vh; */
-}
+==
 
 .header {
   width: 100%;
