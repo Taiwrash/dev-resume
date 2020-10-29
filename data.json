@@ -615,6 +615,18 @@
       "facebook": "Onnys",
       "linkedin": "OnnysMenete",
       "github": "Onnys"
+    },
+    {
+      "id": 53,
+      "imageName": "paulo-filho-dev.jpg",
+      "name": "Paulo Filho",
+      "role": "Programer",
+      "about": "I love javascript.",
+      "funfact": "I like css.",
+      "twitter": "pccnf",
+      "facebook": "pccnf",
+      "linkedin": "pccnf",
+      "github": "paulo-filho-dev"
     }
   ]
 }
