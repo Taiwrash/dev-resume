@@ -1,5 +1,8 @@
 # dev-resume
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Hacktoberfest'20](https://img.shields.io/badge/hacktoberfest-2020-pinkpurple)](#)
@@ -56,6 +59,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/AironDev"><img src="https://avatars1.githubusercontent.com/u/29748407?v=4" width="100px;" alt=""/><br /><sub><b>Airon Dev</b></sub></a><br /><a href="#infra-AironDev" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=AironDev" title="Tests">⚠️</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=AironDev" title="Code">💻</a></td>
+
     <td align="center"><a href="https://github.com/ddewzy"><img src="https://avatars3.githubusercontent.com/u/64855703?v=4" width="100px;" alt=""/><br /><sub><b>ddewzy</b></sub></a><br /><a href="#infra-ddewzy" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=ddewzy" title="Tests">⚠️</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=ddewzy" title="Code">💻</a></td>
     <td align="center"><a href="http://fayd.me"><img src="https://avatars3.githubusercontent.com/u/36627266?v=4" width="100px;" alt=""/><br /><sub><b>fayd</b></sub></a><br /><a href="#infra-faisalsayed10" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=faisalsayed10" title="Tests">⚠️</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=faisalsayed10" title="Code">💻</a></td>
   </tr>
@@ -67,6 +71,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://perezarturo.github.io"><img src="https://avatars0.githubusercontent.com/u/8907080?v=4" width="100px;" alt=""/><br /><sub><b>Arturo Perez</b></sub></a><br /><a href="#infra-PerezArturo" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=PerezArturo" title="Tests">⚠️</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=PerezArturo" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/nikhilswain"><img src="https://avatars2.githubusercontent.com/u/39958596?v=4" width="100px;" alt=""/><br /><sub><b>Nikhil Kumar Swain</b></sub></a><br /><a href="#infra-nikhilswain" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=nikhilswain" title="Tests">⚠️</a> <a href="https://github.com/Taiwrash/dev-resume/commits?author=nikhilswain" title="Code">💻</a></td>
+
   </tr>
 </table>
 
