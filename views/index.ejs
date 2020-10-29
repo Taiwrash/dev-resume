@@ -1,87 +1,88 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
-   <link rel="shortcut icon" href="/icons/dev-resume-logo.svg" type="image/x-icon">
-    <title>HacktoberFest2020 | Open-source | Beginner</title>
-  </head>
-  <body>
-    <main>
-      <div class="header">
-        <div class="inner-header">
-          <div class="logo"><img src="/icons/dev-resume-logo.svg" alt=""></div>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="shortcut icon" href="/icons/dev-resume-logo.svg" type="image/x-icon">
+  <title>HacktoberFest2020 | Open-source | Beginner</title>
+</head>
+
+<body>
+  <main>
+    <div class="header">
+      <div class="inner-header">
+        <div class="logo"><img src="/icons/dev-resume-logo.svg" alt=""></div>
         <h3>Welcome to an <span> Open Source Project</span> for Beginner</h3>
         <p>
           This is aim at helping everyone to learn, build and contribute to open
           source. This is for everyone ranging from designers, developers and
           content creators.
         </p>
-        <div class="contributor"><a href="https://github.com/Taiwrash/dev-resume/blob/master/README.md">Become a Contributor</a></div>
+        <div class="contributor"><a href="https://github.com/Taiwrash/dev-resume/blob/master/README.md">Become a
+            Contributor</a></div>
       </div>
     </div>
-      <div class="search">
-        <input type="search" placeholder="Search for a contributor...">
-      </div>
-      <div class="wrapper">
+    <div class="search">
+      <input type="search" placeholder="Search for a contributor...">
+    </div>
+    <div class="wrapper">
       <%items.details.forEach(item=>{ %>
-        <div class="container">
-          <div class="upper-layer">
-            <div class="profile-pics">
-             <% if(item.imageName){ %>
- <img src="/images/<%= item.imageName %>" alt="Your Pics" /> 
+      <div class="container">
+        <div class="upper-layer">
+          <div class="profile-pics">
+            <% if(item.imageName){ %>
+            <img src="/images/<%= item.imageName %>" alt="Your Pics" />
             <% }else { %>
-              <img src="/images/avatar.png" alt="Your Pics" /> 
-   <% } %>
-            </div>
-            <p class="name"><%=item.name %></p>
-            <p class="role"><%=item.role %></p>
-          </div>
-
-          <div class="content-area">
-            <div class="about">
-              <h4>About Me</h4>
-              <p>
-                <%=item.about %>
-              </p>
-            </div>
-            <div class="fun">
-              <h4>My Fun Fact</h4>
-              <p>
-                <%=item.funfact %>  
-              </p>
-            </div>
-            <div class="contact">
-              <h4>My Contact</h4>
-              <p class="contact-me">
-                <% if(item.twitter){ %>
-                  <span class="twitter"
-                    ><a href="https://twitter.com/<%=item.twitter %>"><img src="/icons/tw.svg" alt="twitter logo"></a></span
-                  >
-                <% } %>
-                <% if(item.facebook){ %>
-                  <span class="facebook"
-                    ><a href="https://facebook.com/<%=item.facebook %>"><img src="/icons/fb.svg" alt="fb logo" /></a></span
-                  >
-                <% } %>
-                <% if(item.linkedin){ %>
-                  <span class="linkedin"
-                    ><a href="https://linkedin.com/<%=item.linkedin %>"><img src="/icons/ln.svg" alt="linked logo" /></a></span
-                  >
-                <% } %>
-              </p>
-            </div>
-            <% if(item.github){ %>
-              <div class="connect"><a href="https://github.com/<%=item.github%>">Connect</a></div>
+            <img src="/images/avatar.png" alt="Your Pics" />
             <% } %>
           </div>
+          <p class="name"><%=item.name %></p>
+          <p class="role"><%=item.role %></p>
         </div>
-        <% }) %>
+
+        <div class="content-area">
+          <div class="about">
+            <h4>About Me</h4>
+            <p>
+              <%=item.about %>
+            </p>
+          </div>
+          <div class="fun">
+            <h4>My Fun Fact</h4>
+            <p>
+              <%=item.funfact %>
+            </p>
+          </div>
+          <div class="contact">
+            <h4>My Contact</h4>
+            <p class="contact-me">
+              <% if(item.twitter){ %>
+              <span class="twitter"><a href="https://twitter.com/<%=item.twitter %>" target="_blank"><img
+                    src="/icons/tw.svg" alt="twitter logo"></a></span>
+              <% } %>
+              <% if(item.facebook){ %>
+              <span class="facebook"><a href="https://facebook.com/<%=item.facebook %>" target="_blank"><img
+                    src="/icons/fb.svg" alt="fb logo" /></a></span>
+              <% } %>
+              <% if(item.linkedin){ %>
+              <span class="linkedin"><a href="https://linkedin.com/<%=item.linkedin %>" target="_blank"><img
+                    src="/icons/ln.svg" alt="linked logo" /></a></span>
+              <% } %>
+            </p>
+          </div>
+          <% if(item.github){ %>
+          <div class="connect"><a href="https://github.com/<%=item.github%>">Connect</a></div>
+          <% } %>
         </div>
       </div>
-    </main>
-    <footer>Created by Rasheed @Ibn_Mudathir on twitter</footer>
+      <% }) %>
+    </div>
+    </div>
+  </main>
+  <footer>Created by Rasheed @Ibn_Mudathir on twitter</footer>
   <script src="script.js"></script>
-  </body>
+</body>
+
 </html>
