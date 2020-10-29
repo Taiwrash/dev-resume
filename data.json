@@ -485,5 +485,17 @@
 
 
     }
+      {
+      "id":5,
+      "imageName":"Untitled.png",
+      "name":"Kartik kumar",
+      "role":"Open source contributor",
+      "about":"Hello, my name is Kartik.",
+      "funfact":"I'm following the people instead of using my brain",
+      "twitter":"final_jpeg",
+      "facebook":"",
+      "linkedin":"",
+      "github":"iamKaartik"
+    }
   ]
 }
