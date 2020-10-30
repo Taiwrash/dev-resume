@@ -615,6 +615,18 @@
       "facebook": "Onnys",
       "linkedin": "OnnysMenete",
       "github": "Onnys"
-    }
+    },
+    {
+      "id": 53,
+      "imageName": "katrina.jpg",
+      "name": "Katrina Yates",
+      "role": "Web Developer and Web Designer",
+      "about": "I enjoy designing websites and problem solving.",
+      "funfact": "The problem is to know what the problem is.",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+      "github": "DekyDesigns"
+    },
   ]
 }
