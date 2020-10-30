@@ -615,6 +615,18 @@
       "facebook": "Onnys",
       "linkedin": "OnnysMenete",
       "github": "Onnys"
+    },
+    {
+      "id": 53,
+      "imageName": "wilk.jpg",
+      "name": "Wilk Caetano de França",
+      "role": "Programer",
+      "about": "I'm a programmer",
+      "funfact": "I like javascript.",
+      "twitter": "@rhucaetano",
+      "facebook": "Wilk Caetano",
+      "linkedin": "wilk-caetano-031638a9/",
+      "github": "WilkRhu"
     }
   ]
 }
