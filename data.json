@@ -605,16 +605,50 @@
       "github": "AlexMayol"
     },
     {
+
       "id": 52,
+
       "imageName": "IMG_20190712_172013.jpg",
+
       "name": "Onnys Anild Lopes Menete",
+
       "role": "Programer",
+
       "about": "I'm a mozanbican who loves to code",
+
       "funfact": "I like assembly.",
+
       "twitter": "OnnysMenete",
+
       "facebook": "Onnys",
+
       "linkedin": "OnnysMenete",
+
       "github": "Onnys"
+
+    }
+    {
+
+      "id": 53,
+
+      "imageName": "36643967.jpeg",
+
+      "name": "Yuusf Saifur-Rahman Adam,
+
+      "role": Software Developer",
+
+      "about": "Creating solutions to help lives with my laptop.",
+
+      "funfact": "Catch cruise 😎.",
+
+      "twitter": "yusuf_software",
+
+
+
+      "linkedin": "Yusuf Saifur-Rahman",
+
+      "github": yusuf-saif"
+
     }
   ]
 }
