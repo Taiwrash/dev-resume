@@ -12,7 +12,6 @@
       "linkedin": "jatin-saini",
       "github": "jatinsaini137"
     },
-
     {
       "id": 3,
       "imageName": "rasheeed.png",
@@ -25,7 +24,6 @@
       "linkedin": "rasheedtaiwo",
       "github": "Taiwrash"
     },
-
     {
       "id": 4,
       "imageName": "",
@@ -38,7 +36,6 @@
       "linkedin": "rasheedtaiwo",
       "github": "rasheedtaiwo"
     },
-
     {
       "id": 5,
       "imageName": "",
@@ -51,7 +48,6 @@
       "linkedin": "",
       "github": "rahmah18"
     },
-
     {
       "id": 6,
       "imageName": "airondev.jpg",
@@ -279,7 +275,6 @@
       "linkedin": "ikshitijsingh",
       "github": "singhkshitij"
     },
-
     {
       "id": 25,
       "imageName": "charley.jpg",
@@ -605,50 +600,39 @@
       "github": "AlexMayol"
     },
     {
-
       "id": 52,
-
       "imageName": "IMG_20190712_172013.jpg",
-
       "name": "Onnys Anild Lopes Menete",
-
       "role": "Programer",
-
       "about": "I'm a mozanbican who loves to code",
-
       "funfact": "I like assembly.",
-
       "twitter": "OnnysMenete",
-
       "facebook": "Onnys",
-
       "linkedin": "OnnysMenete",
-
       "github": "Onnys"
-
-    }
+    },
     {
-
       "id": 53,
-
       "imageName": "36643967.jpeg",
-
-      "name": "Yuusf Saifur-Rahman Adam,
-
-      "role": Software Developer",
-
+      "name": "Yuusf Saifur-Rahman Adam",
+      "role": "Software Developer",
       "about": "Creating solutions to help lives with my laptop.",
-
       "funfact": "Catch cruise 😎.",
-
       "twitter": "yusuf_software",
-
-
-
       "linkedin": "Yusuf Saifur-Rahman",
-
-      "github": yusuf-saif"
-
+      "github": "yusuf-saif"
+    },
+    {
+      "id": 54,
+      "imageName": "kitten.png",
+      "name": "Yukta Gopalani",
+      "role": "Open source contributor",
+      "about": "I'm problem solver",
+      "funfact": "Humans are the Only Animals That Enjoy Spicy Foods.",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "yukta-gopalani",
+      "github": "yuktagopalani"
     }
   ]
 }
