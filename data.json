@@ -12,6 +12,32 @@
       "linkedin": "rasheedtaiwo",
       "github": "Taiwrash"
     },
+	 
+    {
+      "id": 1,
+      "imageName": "",
+      "name": "Rasheed Taiwo",
+      "role": "Frontend Developer",
+      "about": "I am Rasheed I love coding and as well impacting people around me. Community building is one of my interest and I am a computer science student. I love JavaScript that is why I write Javascript and C++.",
+      "funfact": "Flaws require more concentration than Success",
+      "twitter": "Ibn_mudathir",
+      "facebook": "Muadasirurasheed",
+      "linkedin": "rasheedtaiwo",
+      "github": "rasheedtaiwo"
+    },
+	 
+    {
+      "id": 200,
+      "imageName": "IMG_20211025_162448_569.jpg",
+      "name": "situ Ramotalahi Adenike",
+      "role": "python",
+      "about": "I am adenike I love coding and as well impacting people around me. Community building is one of my interest and I am a computer science student. I love JavaScript that is why I write Javascript and C++.",
+      "funfact": "Flaws require more concentration than Success",
+      "twitter": "",
+      "facebook": "situ Ramotalahi Adenike",
+      "linkedin": "",
+      "github": "rahmah18"
+    }, 
     {
       "id": 1,
       "imageName": "",
