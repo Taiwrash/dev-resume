@@ -6,6 +6,8 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Hacktoberfest'20](https://img.shields.io/badge/hacktoberfest-2020-pinkpurple)](#)
+[![Hacktoberfest2021](https://img.shields.io/badge/hacktoberfest-2020-pinkpurple)](#)
+[![Hacktoberfest2021-accepted](https://img.shields.io/badge/hacktoberfest-2020-pinkpurple)](#)
 
 Welcome to DEV-RESUME [LIVE-APP](https://dev-resume.herokuapp.com).
 
