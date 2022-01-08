@@ -662,6 +662,17 @@
       "facebook": "",
       "linkedin": "yukta-gopalani",
       "github": "yuktagopalani"
+    },
+    {
+      "id": 55,
+      "imageName": "5hafayet.png",
+      "name": "Shafayet Ahmad Kanon",
+      "role": "Web Developer",
+      "about": "2nd year CS Undergrad",
+      "twitter": "5hafayet",
+      "facebook": "5hafayet",
+      "linkedin": "5hafayet",
+      "github": "5hafayet"
     }
   ]
 }
