@@ -662,6 +662,18 @@
       "facebook": "",
       "linkedin": "yukta-gopalani",
       "github": "yuktagopalani"
+    },
+    {
+      "id": 55,
+      "imageName": "Omotade.JPG",
+      "name": "Muhammad King Yakub",
+      "role": "Data Scientist",
+      "about": "I am data scientist and python programmer from Nigeria. I am active in competitive machine learning platforms. I am comfortable working with sklearn, keras, numpy, pandas, matplotlib and seaborn. \nI am a community lover and very patonate about learning and passing on knowledge\n Ask me about AI, ML, DL ",
+      "funfact": "",
+      "twitter": "_Omotade_",
+      "facebook": "Muhammad-Yakub",
+      "linkedin": "Muhammad-king-yakub",
+      "github": "Omotade-MY"
     }
   ]
 }
