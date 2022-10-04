@@ -662,6 +662,18 @@
       "facebook": "",
       "linkedin": "yukta-gopalani",
       "github": "yuktagopalani"
+    },
+    {
+      "id": 55,
+      "imageName": "alialaba.jpg",
+      "name": "Aliyu AbdulGaniy",
+      "role": "Front-end Developer",
+      "about": "I'm Aliyu AbdulGaniy a Front-end developer . I'm a Front-end developer that love building awesome stuffs for the web.. I love JavaScript and the ecosystem",
+      "funfact": "Learn practice, recal and repeat",
+      "twitter": "thisaliaba",
+      "facebook": "",
+      "linkedin": "alialaba01",
+      "github": "alialaba"
     }
   ]
 }
