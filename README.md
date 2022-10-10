@@ -39,7 +39,7 @@ Step 7 : Copy a complete object begins with `{` and ends with `}` inside the arr
 
 Step 8 : Put a `comma` after the last object then paste what you copied
 
-Step 9 : Edit all details of the pasted object and save `data.json`
+Step 9 : Edit all details of the pasted object, increase id by 1  and save `data.json`
 
 Step 10 : Push your code to github
 
