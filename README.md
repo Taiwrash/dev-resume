@@ -27,23 +27,48 @@ Step 1 : Fork the repo
 
 Step 2 : Clone to your local machine
 
-Step 3 : Navigate to `public/images` folder and put your image in it (note the name of the image and its extension(.ext))
+```
+git clone https://github.com/Taiwrash/dev-resume.git
 
-Step 4 : Recap step 3 `dev-resume/public/images/`
+```
 
-Step 5 : Return to the `root` directory
+Step 3 : Install dependencies
 
-Step 6 : Open `data.json` file
+```
+npm install
 
-Step 7 : Copy a complete object begins with `{` and ends with `}` inside the array
+```
+Step 4 : Create a new branch
 
-Step 8 : Put a `comma` after the last object then paste what you copied
+```
+git checkout -b <branch name>
 
-Step 9 : Edit all details of the pasted object, increase id by 1  and save `data.json`
+```
 
-Step 10 : Push your code to github
+Step 5 : Start development environment
 
-Step 11 : Make a PR
+```
+npm run dev
+
+```
+
+Step 6 : Navigate to `public/images` folder and put your image in it (note the name of the image and its extension(.ext))
+
+Step 7 : Recap step 3 `dev-resume/public/images/`
+
+Step 8 : Return to the `root` directory
+
+Step 9 : Open `data.json` file
+
+Step 10 : Copy a complete object begins with `{` and ends with `}` inside the array
+
+Step 11 : Put a `comma` after the last object then paste what you copied
+
+Step 12 : Edit all details of the pasted object, increase id by 1  and save `data.json`
+
+Step 13 : Push your code to github
+
+Step 14 : Make a PR
 
 # Rewards
 
