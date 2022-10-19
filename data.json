@@ -674,6 +674,18 @@
       "facebook": "",
       "linkedin": "alialaba01",
       "github": "alialaba"
+    },
+    {
+      "id": 56,
+      "imageName": "Esinnation.png",
+      "name": "Esin Ridollah Abdurrazaq",
+      "role": "Front-end Developer",
+      "about": "I'm Esin Ridollah a Front-end developer . I'm a Front-end developer that love learning and building projects.I am a very good team player, a problem solver and enthusiastic about Tech and the Tech World",
+      "funfact": "Flaws require more concentration than Success",
+      "twitter": "esinnation",
+      "facebook": "Esin Ridollah Abdurrazaq",
+      "linkedin": "Esin Ridollah Abdurrazaq",
+      "github": "Esinnation"
     }
   ]
 }
