@@ -674,6 +674,18 @@
       "facebook": "",
       "linkedin": "alialaba01",
       "github": "alialaba"
+    },
+    {
+      "id": 56,
+      "imageName": "ade.jpeg",
+      "name": "Ahmad Adejumo",
+      "role": "Frontend and Mobile app Developer",
+      "about": "I am a software developer with a focus on web development with Javascript and mobile app development with Flutter",
+      "funfact": "I love building communities and helping people",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+      "github": "ahmadadejumo"
     }
   ]
 }
