@@ -5,17 +5,19 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-[![Hacktoberfest'20](https://img.shields.io/badge/hacktoberfest-2020-pinkpurple)](#)
-[![Hacktoberfest2021](https://img.shields.io/badge/hacktoberfest-2020-pinkpurple)](#)
-[![Hacktoberfest2021-accepted](https://img.shields.io/badge/hacktoberfest-2020-pinkpurple)](#)
+[![Hacktoberfest'20](https://img.shields.io/badge/hacktoberfest-2022-pinkpurple)](#)
+[![Hacktoberfest2021](https://img.shields.io/badge/hacktoberfest-2022-pinkpurple)](#)
+[![Hacktoberfest2021-accepted](https://img.shields.io/badge/hacktoberfest-2022-pinkpurple)](#)
 
 Welcome to DEV-RESUME [LIVE-APP](https://dev-resume.herokuapp.com).
 
-# Aims
+# AIMS
 
-1. The aim of the project is to help two category of people (a)Developers (b)Recruiting Companies/Industries.
+1. The aim of the project is to help two category of people 
+  (a)Developers 
+  (b)Recruiting Companies/Industries.
 2. It is also a very simple open source project for beginners to contribute.
-3. It is also a starting point for hacktoberfest 2020 contributors.
+3. It is also a starting point for hacktoberfest 2022 contributors.
 
 # Goal
 
@@ -43,11 +45,11 @@ Step 9 : Edit all details of the pasted object, increase id by 1  and save `data
 
 Step 10 : Push your code to github
 
-Step 11 : Make a PR
+Step 11 : Make a Pull Request
 
 # Rewards
 
-a. Identify yourself as a contributor on github
+a. Identify yourself as a contributor on GitHub
 
 b. If your PR get merged you have a proof for recruiters as an open source contributor by refer them to live app on heroku at <https://dev-resume.herokuapp.com>
 
