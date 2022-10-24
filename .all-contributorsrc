@@ -15,6 +15,7 @@
         "test",
         "code"
       ]
+
     },
     {
       "login": "ddewzy",
@@ -93,6 +94,17 @@
         "test",
         "code"
       ]
+    }{
+      "login": "przemekdolata96",
+      "name": "Przemek Dolata",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/26312462?s=400&u=45abc8c1a836c94fb8ac312950a6a901d6d9561f&v=4",
+      "profile": "https://github.com/przemekdolata96",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+
     }
   ],
   "contributorsPerLine": 3,
