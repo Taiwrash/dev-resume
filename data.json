@@ -312,5 +312,30 @@
       "linkedin": "jvargas98",
       "github": "jvargas98"
     }
+	  
+
+    {
+
+      "id": 77,
+
+      "imageName": "pic.jpg",
+
+      "name": "odun",
+
+      "role": "Computer Programming Student",
+
+      "about": "Hi! I'm Odun, I'm a python programmer.",
+
+      "funfact": "",
+
+      "twitter": "",
+
+      "facebook": "",
+
+      "linkedin": "Rahmah Situ",
+
+      "github": "Rahmah18"
+
+    },
   ]
 }
