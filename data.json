@@ -24,35 +24,19 @@
       "linkedin": "rasheedtaiwo",
       "github": "Taiwrash"
     },
-	  
-	 
-
     {
-
       "id": 50,
-
       "imageName": "IMG_20211025_162448_569.jpg",
-
       "name": "Situ Ramotalahi Adenike",
-
       "role": "Programmer",
-
       "about": "I am adenike I love coding and as well impacting people around me. Community building is one of my interest and I am a computer science student. I love JavaScript that is why I write Javascript and C++.",
-
       "funfact": "Flaws require more concentration than Success",
-
       "twitter": "",
-
       "facebook": "Situ Ramotalahi Adenike",
-
       "linkedin": "",
-
       "github": "rahmah18"
 
     }, 
-	  
-	  
-	  
     {
       "id": 4,
       "imageName": "",
@@ -674,6 +658,18 @@
       "facebook": "",
       "linkedin": "alialaba01",
       "github": "alialaba"
+    },
+	{
+      "id": 56,
+      "imageName": "lateefat.png",
+      "name": "Shuaib Lateefat",
+      "role": "Data Analyst",
+      "about": "I am Shuaib Lateefat. I love analyzing data and I have developed passion in working with Power BI, a new MS tool for building dashboard for businesses and Excel",
+      "funfact": "Learn, Unlearn, relearn, explore and Become",
+      "twitter": "SA_Lateefat",
+      "facebook": "Shuaib Lateefat Ayomide",
+      "linkedin": "lateefat-shuaib",
+      "github": "Touchstone01"
     }
   ]
 }
