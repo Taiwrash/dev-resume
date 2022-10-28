@@ -5,17 +5,21 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-[![Hacktoberfest'20](https://img.shields.io/badge/hacktoberfest-2020-pinkpurple)](#)
-[![Hacktoberfest2021](https://img.shields.io/badge/hacktoberfest-2020-pinkpurple)](#)
-[![Hacktoberfest2021-accepted](https://img.shields.io/badge/hacktoberfest-2020-pinkpurple)](#)
+[![Hacktoberfest'20](https://img.shields.io/badge/hacktoberfest-2022-greenpurple)](#)
+[![Hacktoberfest2021](https://img.shields.io/badge/hacktoberfest-2022-pinkpurple)](#)
+[![Hacktoberfest2021-accepted](https://img.shields.io/badge/hacktoberfest-2022-yellowpurple)](#)
 
-Welcome to DEV-RESUME [LIVE-APP](https://dev-resume.herokuapp.com).
+Welcome to DEV-RESUME [LIVE-APP](https://tech-resumie.herokuapp.com).
 
-# Aims
+# AIMS
 
-1. The aim of the project is to help two category of people (a)Developers (b)Recruiting Companies/Industries.
+> To everything, there is a purpose.
+
+1. The aim of the project is to help two category of people 
+  (a)Developers 
+  (b)Recruiting Companies/Industries.
 2. It is also a very simple open source project for beginners to contribute.
-3. It is also a starting point for hacktoberfest 2020 contributors.
+3. It is also a starting point for hacktoberfest 2022 contributors.
 
 # Goal
 
@@ -25,9 +29,12 @@ Welcome to DEV-RESUME [LIVE-APP](https://dev-resume.herokuapp.com).
 
 Step 1 : Fork the repo
 
-Step 2 : Clone to your local machine
+Step 2 : Clone to your local machine. Using the command
+```bash
+  git clone <https-url>
+```
 
-Step 3 : Navigate to `public/images` folder and put your image in it (note the name of the image and its extension(.ext))
+Step 3 : Navigate to `public/images` folder and put your image in it (note the name of the image and its extension(.ext)) and a void generic name, make it unique
 
 Step 4 : Recap step 3 `dev-resume/public/images/`
 
@@ -41,13 +48,13 @@ Step 8 : Put a `comma` after the last object then paste what you copied
 
 Step 9 : Edit all details of the pasted object, increase id by 1  and save `data.json`
 
-Step 10 : Push your code to github
+Step 10 : Push your code to GitHub
 
-Step 11 : Make a PR
+Step 11 : Make a Pull Request (PR)
 
 # Rewards
 
-a. Identify yourself as a contributor on github
+a. Identify yourself as a contributor on GitHub
 
 b. If your PR get merged you have a proof for recruiters as an open source contributor by refer them to live app on heroku at <https://dev-resume.herokuapp.com>
 
