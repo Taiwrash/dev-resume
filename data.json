@@ -674,6 +674,18 @@
       "facebook": "",
       "linkedin": "alialaba01",
       "github": "alialaba"
-    }
+    },
+    {
+      "id": 56,
+      "imageName": "Miracle.png",
+      "name": "Olabode Miracle",
+      "role": "DevOps Engineerr",
+      "about": "Miracle Olabode is a DevOps Engineer with a love for cloud and everything automation.  He is a Google Cloud Champion Innovator, where he contributes to the cloud ecosystem through writing and training",
+      "funfact": "loves reading",
+      "twitter": "olabode_mo",
+      "facebook": "MiracleOlabode",
+      "linkedin": "MiracleOlabode",
+      "github": "DevOlabodeM"
+    },
   ]
 }
