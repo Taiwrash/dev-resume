@@ -59,6 +59,7 @@ main {
   border-radius: 50px;
   margin: 40px 0;
   transition: all ease-in-out 0.5s;
+  cursor: pointer;
 }
 
 .contributor:hover {
