@@ -1,7 +1,19 @@
 {
   "details": [
     {
-      "id": 1,
+      "id": 32,
+      "imageName": "Srajan.jpg",
+      "name": "Srajan Bansal",
+      "role": "Software Devloper, Beckend Developer",
+      "about": "I am Srajan Bansal I love coding and doing DSA. I am learning python and MERN stack",
+      "funfact": "I Don't care",
+      "twitter": "https://twitter.com/Srajanstwt",
+      "facebook": "",
+      "linkedin": "https://www.linkedin.com/in/srajan-bansal-a17539214/",
+      "github": "https://github.com/Srajan-Bansal"
+    },
+    {
+      "id": 2,
       "imageName": "jatinsaini137.jpg",
       "name": "Jatin Saini",
       "role": "Web Developer , Beckend Developer",
