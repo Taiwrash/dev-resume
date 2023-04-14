@@ -674,6 +674,19 @@
       "facebook": "",
       "linkedin": "alialaba01",
       "github": "alialaba"
+    },
+    {
+      "id": 56,
+      "imageName": "Heemah.jpeg",
+      "name": "Rohimat Mustapha",
+      "role": "Front-end Developer",
+      "about": "I'm Rohimat Mustapha a Front-end developer . I'm a junior frontend web developer with a creative attitude to problem solving, learning and developing skills from different resources",
+      "funfact": "sleep",
+      "twitter": "heemahmuslad",
+      "facebook": "",
+      "linkedin": "Rohimat Mustapha",
+      "github": "HeemahMuslad"
     }
   ]
+  
 }
