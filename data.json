@@ -674,6 +674,18 @@
       "facebook": "",
       "linkedin": "alialaba01",
       "github": "alialaba"
+    },
+    {
+      "id": 56,
+      "imageName": "byron.jpg",
+      "name": "Bayram Turgut",
+      "role": "Software Engineer",
+      "about": "",
+      "funfact": "The more we talk, the less we become",
+      "twitter": "",
+      "facebook": "",
+      "linkedin": "",
+      "github": "bayramtturgutt"
     }
   ]
 }
